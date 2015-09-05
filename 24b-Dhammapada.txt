@@ -1,0 +1,2159 @@
+﻿dhp_utf8 [cpd classification 2.5.2]
+[pts vol dh - ] [\z dhp /] [\f i /]
+[pts page 001] [\q   1/]
+[bjt vol dh - ] [\z dhp /] [\w i /]
+[bjt page 026] [\x  26/]
+suttantapiṭake
+khuddakanikāyo
+(dutiyo gantho)
+dhammapadapāḷi
+
+namo tassa bhagavato arahato sammāsambuddhassa.
+
+1. yamakavaggo.
+
+1. manopubbaṅgamā dhammā manoseṭṭhā manomayā 1
+manasā ce paduṭṭhena bhāsati vā karoti vā
+tato naṁ dukkhamanveti cakkaṁ'va vahato padaṁ.
+
+2. manopubbaṅgamā dhammā manoseṭṭhā manomayā 2
+manasā ce pasannena bhāsati vā karoti vā
+tato naṁ sukhamanveti chāyā'va anapāyinī.
+
+3. akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me 3
+ye taṁ upanayhanti veraṁ tesaṁ na sammati.
+
+4. akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me 4
+ye taṁ na upanayhanti veraṁ tesūpasammati.
+
+[pts page 002] [\q   2/]
+5. na hi verena verāni sammantīdha kudācanaṁ 5
+averena ca sammanti esa dhammo sanantano.
+
+6. pare ca na vijānanti mayamettha yamāmase 6
+ye ca tattha vijānanti tato sammanti medhagā.
+
+7. subhānupassiṁ viharantaṁ indriyesu asaṁvutaṁ 7
+bhojanambhi amattaññuṁ kusītaṁ hīnavīriyaṁ
+taṁ ve pasahati māro vāto rukkhaṁ'va dubbalaṁ.
+
+3 ākrośanmāmavocanmāma jayanmāmahāpayat
+atra ye upanahyante vairaṁ teṣāṁ na śāmyati.
+4 ākrośanmāmavocanamāmajayanmāmahāpayat
+atra ye nopanahyante vairaṁ teṣāṁ praśāmyati.
+(mūlasarvāstivādivinaya. kośāmbakavastu)
+5 na hi vaireṇa vairāṇi śāmyantīha kadācana
+kṣāntyā vairāṇi śāmyanti eṣa dharma: sanātana: .
+6 pare'tra na vijānanti vayamatrodyamāmahe
+atra ye tu vijānanti teṣāṁ śāmyanti medhakā: .
+(mūlasarvāstivādivinaya. kośāmbakavastu)
+
+[bjt page 28] [\x  28/]
+8. asubhānupassiṁ viharantaṁ indriyesu susaṁvutaṁ 8
+bhojanambhi ca mattaññuṁ saddhaṁ āraddhavīriyaṁ
+taṁ ve nappasahati māro vāto selaṁ'va pabbataṁ.
+
+9. anikkasāvo kāsāvaṁ yo vatthaṁ paridahessati 9
+apeto damasaccena na so kāsāvamarahati.
+
+10. yo ca vantakasāvassa sīlesu susamāhito 10
+upeto damasaccena sa ve kāsāvamarahati.
+
+11. asāre sāramatino sāre cāsāradassino 11
+te sāraṁ nādhigacchanti micchāsaṁkappagocarā.
+
+12. sārañca sārato ñatvā asārañca asārato 12
+te sāraṁ adhigacchanti sammāsaṁkappagocarā.
+
+13. yathāgāraṁ ducchannaṁ vuṭṭhi samativijjhati 13
+evaṁ abhāvitaṁ cittaṁ rāgo samativijjhati.
+
+[pts page 003  [\q   3/]     14.] yathāgāraṁ succhannaṁ vuṭṭhi na samativijjhati 14
+evaṁ subhāvitaṁ cittaṁ rāgo na samativijjhati.
+
+15. idha socati pecca socati pāpakārī ubhayattha socati 15
+so socati so vihaññati disvā kamma kiliṭṭhamattano.
+
+16. idha modati pecca modati katapuñño ubhayattha modati 16
+so modati so pamodati disvā kamma visuddhimattano.
+
+17. idha tappati pecca tappati pāpakārī ubhayattha tappati 17
+pāpaṁ me katanti tappati bhiyyo tappati duggatiṁ gato.
+
+18. idha nandati pecca nandati pāpakārī ubhayattha nandati 18
+pāpaṁ me katanti nandati bhiyyo nandati suggatiṁ gato.
+
+[bjt page 30] [\x  30/]
+19. bahumpi ce sahitaṁ bhāsamāno 19
+na takkaro hoti naro pamatto
+gopo'va gāvo gaṇayaṁ paresaṁ
+na bhāgavā sāmaññassa hoti.
+
+20. appampi ce sahitaṁ bhāsamāno 20
+dhammassa hoti anudhammacārī
+rāgañca dosañca pahāya mohaṁ
+sammappajāno suvimuttacitto
+anupādiyāno idha vā huraṁ vā
+sa bhāgavā sāmaññassa hoti.
+
+yamakavaggo paṭhamo.
+
+[pts page 004] [\q   4/]
+2. appamādavaggo.
+
+1. appamādo amatapadaṁ pamādo maccuno padaṁ 21
+appamattā na mīyanti ye pamattā yathā matā.
+
+2. etaṁ visesato ñatvā appamādamhi paṇḍitā 22
+appamāde pamodanti ariyānaṁ gocare ratā.
+
+3. te jhāyino sātatikā niccaṁ daḷhaparakkamā 23
+phusanti dhīrā nibbāṇaṁ yogakkhemaṁ anuttaraṁ.
+
+4. uṭṭhānavato satimato sucikammassa nisammakārino 24
+saññatassa ca dhammajīvino appamattassa yaso'bhivaḍḍhati.
+
+5. uṭṭhānenappamādena saññamena damena ca 25
+dīpaṁ kayirātha medhāvī yaṁ ogho nābhikīrati.
+
+1 apramādo hyamṛtapadaṁ pramādo mṛtyuna: padam
+apramattā na bīrayante ye pramattā: sadā mṛtā: .
+(udānavarga-apramādavarga. [v. 6]
+apramadu amatapada pramadu macuno pada
+apramata na miyati ye pramata yadha mutu. (prā. dha. )
+2 etad viśeṣato gñatvā hyapramādasya paṇaḍita:
+apramāde pramodata nityamārya: svagocaram.
+(udānavarga-apramādavarga. [v. 10]
+eta viśeṣadha ñatva apramadasa panito
+apramadi pramodia ariana goyari rato. (prā. dha. )
+4 utthānavata: smṛtātmana: śucicittasya niśamyacāriṇa:
+saṁyatasya hi dharmajīvino hyapramattasya yaśo'bhivardhati.
+(udānavarga-apramādavarga. [v. 6]
+uṭhanamato samtimato suyikamasa niśmacarino
+sañata hi dhamajīvino apramatasa yaśidhavaḍhati. (prā. dha. [a. 3](8)
+5 utthānenāpramādena saṁyamena damena ca
+dvīpaṁ karoti medhāvi tamoghonābhimardati.
+(udāna-apramāda. [v. 5]
+uṭhanena apramadena sañamena damena ca
+divu karoti medhavi ya jara nabhimardati. (prā. dha. [a. 3](7)
+
+[bjt page 32] [\x  32/]
+6. pamādamanuyuñjanti bālā dummedhino janā 26
+appamādañca medhāvi dhanaṁ seṭṭhaṁ'va rakkhati.
+
+7. mā pamādamanuyuñjetha mā kāmarati santhavaṁ 27
+appamatto hi jhāyanto pappoti vipulaṁ sukhaṁ.
+
+8. pamādaṁ appamādena yadā nudati paṇḍito 28
+paññāpāsādamāruyha asoko sokiniṁ pajaṁ
+pabbataṭṭho'va bhummaṭṭhe dhīro bāle avekkhati.
+
+[pts page 005] [\q   5/]
+9. appamatto pamattesu suttesu bahujāgaro 29
+abalassaṁ'va sīghasso hitvā yāti sumedhaso.
+
+10. appamādena maghavā devānaṁ seṭṭhataṁ gato 30
+appamādaṁ pasaṁsanti pamādo garahito sadā.
+
+11. appamādarato bhikkhu pamāde bhaya dassivā 31
+saṁyojanaṁ aṇuṁ thūlaṁ ḍahaṁ aggīva gacchati.
+
+12. appamādarato bhikkhu pamāde bhaya dassivā 32
+abhabbo parihāṇāya nibbāṇasseva santike.
+
+appamādavaggo dutiyo.
+
+6 pramada anuyujati bala drumedhino jana
+apramada tu medhavi dhana śeṭhi va rachati. (prā. dha. [a. 4](14)
+pramādamanuvartante bālādurmedhaso janā:
+apramādaṁ tu medhāvī dhanaṁ śreṣṭhī va rakṣate.
+(udānavarga-apramādavarga. [v. 10]
+7 pramādaṁ nānuyujyeta na kāmaratisaṁstavam
+apramatta: sadādhyāyī prāpanute paramaṁ sukhaṁ.
+(udānavarga. [iv. v. 11]
+na i pramada samayu aprati asava chayi
+apramato hi jhayatu pranoti paramu sukhu. (prā. dha. )
+apramadi pramodiya ma gāmarati sambhamu
+apramato hi jhayatu viśeṣa adhigachati. (prā. dha. )
+8 pramādamapramādena yadā nudati paṇḍita:
+pragñāprasādamāruhya tvaśoka: śokinīṁ prajām
+parvatastha iva bhūmiṣṭhān dhīro bālānavekṣate.
+(udāna-apramāda. [v. 4]
+pragñāprasādamāruhyāśocya: śocato janān
+bhūmiṣṭhāniva ślaiastha: sarvān prāgño'nupaśyati.
+(yogabhāṣya. [t](40)
+pramada apramadena yada nudati panitu
+praña prasada aruyu aśoka śoino jana
+pravataṭhova bhumaṭha dhīru bala avechati. (prā. dha. [a 3](15)
+9 apramatu pramateṣu suteṣu baho jagaru
+abalaśa va bhadraśu hatva yati sumedhasu.
+10 apramadaṁ praśaṁsanti pramādo garhita: sadā
+apramādena maghavān devānāṁ śreṣṭhatāṁ gata: .
+(udānavarga. [iv. v. 24]
+apramadena makaha devana samidhi gatu
+apramada pragjhati pramadu garahitu sada. (prā. dha. [a 3](17)
+11 apramādarato bhikṣu: pramāde bhayadarśaka:
+durgādudadharata ātmānaṁ paṅkasanna iva kuñjara: .
+(udānavarga apramāda. 13)
+12 apramada ratu yo bhikhu pramadi bhayadarśi vā abhavu parihanae nivanaseva satii.
+(prā. dha. [b. 32]
+
+[bjt page 34] [\x  34/]
+3. cittavaggo.
+
+1. phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ 33
+ujuṁ karoti medhāvī usukāro'va tejanaṁ.
+
+2. vārijo'va thale khitto okamokata ubbhato 34
+pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.
+
+3. dunniggahassa lahuno1 yatthakāmanipātino 35
+cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.
+
+[pts page 006] [\q   6/]
+4. sududdasaṁ sunipunaṁ yatthakāmanipātinaṁ 36
+cittaṁ rakkhetha medhāvī cittaṁ guttaṁ sukhāvahaṁ.
+
+5. dūraṅgamaṁ ekacaraṁ asarīraṁ kuhāsayaṁ 37
+ye cittaṁ saññamessanti mokkhanti mārabandhanā.
+
+6. anavaṭṭhitacittassa saddhammaṁ avijānato 38
+paripalavapasādassa paññā na paripūrati.
+
+7. anavassutacittassa ananavāhatacetaso 39
+puññapāpapahīṇassa natthi jāgarato bhayaṁ.
+
+8. kumbhūpamaṁ kāyamimaṁ viditvā nagarūpamaṁ cittamidaṁ ṭhapetvā 40
+yodhetha māraṁ paññāyudhena jitañca rakkhe anivesano siyā.
+
+9. aciraṁ vatayaṁ kāyo paṭhaviṁ adhisessati 41
+chuddho apetaviññāṇo niratthaṁ'va kaliṅgaraṁ.
+
+10. diso disaṁ yantaṁ kayirā verī vā pana verinaṁ 42
+micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.
+
+1 spandanaṁ capalaṁ cittaṁ dūrakṣaṁ durnivāraṇam
+sṛjuṁ karoti medhāvī iṣukāra iva tejanam.
+(udānavarga-citta. 8)
+druraja drunivaraṇa. (prā. dha. [a. 8]
+2 vārija iva sthale kṣipatamokādoghāt samuddhṛta:
+pariṣpandati vai cittaṁ māradheyaṁ prahātavai.
+(udānavarga. [v. 2]
+5 duragama ekacara aśarira guhaśaya
+ye cita sañameśati mocati marabhatana. (prā. dha. )
+6 anavasthīta cittasya saddharma mavijānata:
+pariplavalrasādasya pragñā na paripūryate. (udānavarga. 31. [v. 28]
+anavaṭṭhita citasa (prā. dha. [a. 1]
+7 anavaśuta citasa (prā. dha. [a. 4]
+9 ayirena vata i kayu padhavi. . . . siti
+ruchu. . . . ciñana niratha ba kaḍīgaru (prā. dha. [c vo](14)
+aviraṁ vata kāyo'yaṁ pṛthivīmadhiśeṣyati
+Śunyavyapetavigñāno nirastaṁ vā kaḍaṁgaram. (udāna varga. [v. 35]
+
+[bjt page 36] [\x  36/]
+11. na taṁ mātā pitā kayirā aññe vā pi ca ñātakā 43
+sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.
+
+cittavaggo tatiyo.
+
+[pts page 007] [\q   7/]
+pupphavaggo.
+
+1. ko imaṁ paṭhaviṁ vicessati[a 44]
+*yamalokañca imaṁ sadevakaṁ
+ko dhammapadaṁ sudesitaṁ
+kusalo pupphamiva pacessati.
+
+2. sekho paṭhaviṁ vicessati 45
+yamalokañca imaṁ sadevakaṁ
+sekho dhammapadaṁ sudesitaṁ
+kusalo pupphamiva pacessati.
+
+3. pheṇūpamaṁ kāyamimaṁ viditvā
+marīcidhammaṁ abhisambudhāno
+chetvāna mārassa papupphakāni[b]
+adassanaṁ maccurājassa gacche.
+
+4. pupphāni heva pacinantaṁ byāsattamanasaṁ naraṁ 47
+suttaṁ gāmaṁ mahogho'va maccu ādāya gacchati.
+
+5. pupphāni heva pacinantaṁ byāsattamanasaṁ naraṁ 48
+atittaṁ yeva kāmesu antako kurute vasaṁ.
+
+6. yathāpi bhamaro pupphaṁ vaṇṇagandhaṁ aheṭhayaṁ 49
+paḷeti rasamādāya evaṁ gāme munī care.
+
+7. na paresaṁ vilomāni na paresaṁ katākataṁ 50
+attano'va avekkheyya katāni akatāni ca.
+
+[pts page 008] [\q   8/]
+8. yathāpi ruciraṁ pupphaṁ vaṇṇavantaṁ agandhakaṁ 51
+evaṁ subhāsitā vācā aphalā hoti akubbato.
+
+9. yathāpi ruciraṁ pupphaṁ vaṇṇavantaṁ sagandhakaṁ 52
+evaṁ subhāsitā vācā saphalā hoti pakubbato.
+
+1 *(yamaloka ji) ita sadevaka
+ko dhamapada sudeśita kuśala puṣaviva payeṣiti (prā. dha. [c. 1]
+2 budhu pradha. . . . Ṣiti yamaloka ji eta sadevaka.
+budhu dhamapada sudesita kuśala puṣaciva payeṣiti (prā. dha. [c. 2]
+[a] vijessati iti bahūsu.
+[b] sapupphakākānīti kesuci.
+4 suptaṁ vyāghraṁ mahogho vā mṛtyurādāya gacchati. saṁcinvānakamevainaṁ kāmānamavitṛptanam.
+(Śāntiparva. 9939. mahābhārata. )
+5 puṣpāṇīva vicinvantamanyatragatamānasam. anavāpteṣu kāmeṣu
+mṛtyurabhyeti mānavam. (Śāntiparva. 6540. mahābhārata. )
+
+[bjt page 38] [\x  38/]
+10. yathāpi ppupharāsimhā kayirā mālākuṇe bahū 53
+evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.
+
+11. na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā 54
+satañca gandho paṭivātameti sabbā disā sappuriso pavāti.
+
+12. candanaṁ tagaraṁ vāpi uppalaṁ atha vassikī 55
+etesaṁ gandhajātānaṁ sīlagandho anuttaro.
+
+13. appamatto ayaṁ gandho yāyaṁ tagaracandanī 56
+yo ca sīlavataṁ gandho vāti devesu uttamo.
+
+14. tesaṁ sampannasīlānaṁ appamādavihārinaṁ 57
+sammadaññā vimuttānaṁ māro maggaṁ na vindati.
+
+15. yathā saṅkāradhānasmiṁ ujjhitasmiṁ mahāpathe 58 padumaṁ tattha jāyetha sucigandhaṁ manoramaṁ.
+
+[pts page 009] [\q   9/]
+16. evaṁ saṅkārabhūtesu andhabhūte puthujjane 59
+atirocati paññāya sammāsambuddhasāvako.
+
+pupphavaggo catuttho.
+
+4. bālavaggo.
+
+1. dīghā jāgarato ratti dīghaṁ santassa yojanaṁ 60
+dīgho bālānaṁ saṁsāro saddhamma avijānataṁ.
+
+2. carañce nādhigaccheyya seyyaṁ sadisamattano 61
+ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.
+
+3. puttā matthi dhanammatthi iti bālo vihaññati 62
+attā hi attano natthi kuto puttā kuto dhanaṁ.
+
+4. yo bālo maññati bālyaṁ paṇaḍito vā'pi tena so 63
+bālo ca paṇḍitamānī sa ve bālo'ti vuccati.
+
+5. yāvajīvampi ce bālo vaṇḍitaṁ payirupāsati 64
+na so dhammaṁ vijānāti dabbī sūparasaṁ yathā.
+
+[pts page 010] [\q  10/]
+6. muhuttampi ce viñgñu paṇḍitaṁ payirupāsati 65
+khippaṁ dhammaṁ vijānāti jivhā sūparasaṁ yathā.
+
+15 yadha sagara uḍasa ujhitasa maha pathi
+padumu tatra jaea suyi gandha manoramu. (prā. dha. [c. 3]
+16 yadha sagha dhamā ā andhabhūte prudhijane
+abhioti prañai samesabudha śavaka. (prā. dha. [c. 4]
+
+[bjt page 40] [\x  40/]
+7. caranti bālā dummedhā amitteneva attanā 66
+karontā pāpakaṁ kammaṁ yaṁ hoti kaṭukapphalaṁ.
+
+8. na taṁ kammaṁ kataṁ sādhu yaṁ katvā nānutappati 67
+yassa assumukho rodaṁ vipākaṁ paṭisevati.
+
+9. tañca kammaṁ kataṁ sādhu yaṁ katvā nānutappati 68
+yassa patīto sumano vipākaṁ paṭisevati.
+
+10. madhuvā maññati bālo yāva pāpaṁ na paccati 69
+yadā ca paccati pāpaṁ atha bālo dukkhaṁ nigacchati.
+
+11. māse māse kusaggena bālo bhuñjetha bhojanaṁ 70
+na so saṅkhatadhammānaṁ kalaṁ agghati soḷasiṁ.
+
+12. na hi pāpaṁ kataṁ kamma sajju khīraṁ'va muccati 71
+ḍahantaṁ bālamanveti bhasmacchanno'va pāvako.
+
+13. yāvadeva anatthāya ñattaṁ bālassa jāyati 72
+hanti bālassa sukkaṁsaṁ muddhamassa vipātayaṁ.
+
+[pts page 011] [\q  11/]
+14. asataṁ bhāvanamiccheyya purekkhārañca bhikkhusu 73
+āvāsesu ca issariyaṁ pūjā parakulesu ca.
+
+15. mameva kataṁ maññantū gihī pabbajitā ubho 74
+mameva ativasā assu kiccākiccesu kismici
+iti bālassa saṁkappo icchā māno ca vaḍḍhati.
+
+16. aññā hi lābhūpanisā aññā nibbānagāminī 75
+evametaṁ abhiññāya bhikkhu buddhassa sāvako
+sakkāraṁ nābhinandeyya vivekamanubrūhaye.
+
+bālavaggo pañcamo.
+
+6. paṇḍitavaggo.
+
+1. nidhinaṁ'va pavattāraṁ yaṁ passe vajjadassinaṁ 76
+niggayhavādiṁ medhāviṁ tādisaṁ paṇḍitaṁ bhaje
+tādisaṁ bhajamānassa seyyo hoti na pāpiyo.
+
+11 māse māse kuśāgreṇa bālo bhuṁjeta bhojanam
+na so khuddhe prasādanya kalāmarghati ṣoḍaśīm.
+(mahāvastu. [iii. 436] piṭa)
+masi masi sahasena yaea śatena ca
+neva saghasa dhamesu kala aveti ṣoḍaśi. (prā. dha. [c. 14]
+
+[bjt page 42] [\x  42/]
+2. ovadeyyanusāseyya asabbhā ca nivāraye 77
+sataṁ hi so piyo hoti asataṁ hoti appiyo.
+
+3. na bhaje pāpake mitte na bhaje purisādhame 78
+bhajetha mitte kalyāṇe bhajetha purisuttame.
+
+[pts page 012] [\q  12/]
+4. dhammapīti sukhaṁ seti vippasannena tejasā 79
+ariyappavedite dhamme sadā ramati paṇḍito.
+
+5. udakaṁ hi nayanti nettikā usukārā namayanti tejanaṁ 80
+dāruṁ namayanti tacchakā attānaṁ damayanti paṇḍitā.
+
+6. selo yathā ekaghano vātena na samīrati 81
+evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.
+
+7. yathāpi rahado gambhīro vippasanno anāvilo 82
+evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.
+
+8. sabbattha ve sappurisā cajanti na kāmakāmā lapayanti santo 83
+sukhena phuṭṭhā atha vā dukhena noccāvacaṁ paṇḍitā dassayanti.
+
+9. na attahetu na parassa hetu 84
+na puttamicche na dhanaṁ na raṭṭhaṁ
+na iccheyya adhammena samiddhimattano
+sa sīlavā paññavā dhammiko siyā.
+
+10. appakā te manussesu ye janā pāragāmino 85
+athāyaṁ itarā pajā tīramevānudhāvati.
+
+[pts page 013] [\q  13/]
+11. ye ca kho sammadakkhāte dhamme dhammānuvattino 86
+te janā pāramessanti maccudheyyaṁ suduttaraṁ.
+
+12. kaṇhaṁ dhammaṁ vippahāya sukkaṁ bhāvetha paṇḍito 87
+okā anokaṁ āgamma viveke yattha dūramaṁ.
+
+9 yo atma hetu na parasa hetu. pavani kamani samayare a.
+na ichia adhamena samidhi atmano.
+sa śilava panitu dhammiho sida. (prā. dha. [c. 26]
+
+[bjt page 44] [\x  44/]
+13. tatrābhiratimiccheyya hitvā kāme akiñcano 88
+pariyodapeyya attānaṁ cittaklesehi paṇḍito.
+
+14. yesaṁ sambodhiaṅgesu sammā cittaṁ subhāvitaṁ 89
+ādānapaṭinissagge anupādāya ye ratā
+khīṇāsavā jutimanto te loke parinibbutā.
+
+paṇḍitavaggo chaṭṭho.
+
+7. arahantavaggo.
+
+1. gataddhino visokassa vippamuttassa sabbadhi 90
+sabbaganthappahīṇassa pariḷāho na vijjati.
+
+2. uyyuñjanti satimanto na nikete ramanti te 91
+haṁsā'va pallalaṁ hitvā okamoka jahanti te.
+
+[pts page 014] [\q  14/]
+3. yesaṁ sannicayo natthi ye pariññātabhojanā 92
+suññato animitto ca vimokkho yesa gocarā
+ākāse'va sakuntānaṁ gati tesaṁ durannayā
+
+4. yassāsavā parikkhīṇā āhāre ca anissito 93
+suññato animitto ca vimokkho yassa gocaro
+ākāse'va sakuntānaṁ padaṁ tassa durannayaṁ
+
+5. yassindriyāni samathaṁ gatāni 94 assā yathā sārathinā sudantā
+pahīṇamānassa anāsavassa
+devā'pi tassa pihayanti tādino.
+
+6. paṭhavisamo no virujjhati indakhīlūpamo tādi subbato 95
+rahado'va apetakaddamo saṁsārā na bhavanti tādino.
+
+[bjt page 46] [\x  46/]
+7. santaṁ tassa manaṁ hoti santā vācā ca kamma ca 96
+sammadaññā vimuttassa upasantassa tādino.
+
+8. assaddho akataññū ca sandhicchedo ca yo naro 97
+hatāvakāso vantāso sa ve uttamaporiso.
+
+9. gāme vā yadi vā raññe ninne vā yadi vā thale 98
+yatthārahanto viharanti taṁ bhūviṁ rāmaṇeyyakaṁ.
+
+[pts page 015] [\q  15/]
+10. ramaṇīyāni araññāni yattha na ramatī jano 99
+vītarāgā ramissanti na te kāmagavesino.
+
+arahantavaggo sattamo.
+
+8. sahassavaggo.
+
+1. sahassampi ce vācā anatthapadasaṁhitā 100
+ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.
+
+2. sahassampi ce gāthā antthapadasaṁhitā 101
+ekaṁ gāthāpadaṁ seyyā yaṁ sutvā upasammati.
+
+3. yo ce gāthāsataṁ bhāse anatthapadasaṁhitaṁ 102
+ekaṁ dhammapadaṁ seyyā yaṁ sutvā upasammati.
+
+1 sahasramapi vācānāmanarthapadasaṁbhitā
+ekā arthavatī śreyā yaṁ śrutvā upaśāmyati.
+(mahāvastu. 3. 436 piṭa)
+sahasa bi ya vaśana anatha pada sahita
+eka gadha pada ṣebha ya ṣutva uvaśamati. (prā. dha. [c. 72]
+2 sahasramapi gāthānāmanarthapadasaṁhitā
+ekā arthavatī śreyā yaṁ śrutvā upaśāmyati.
+(mahāvastu. 3. 436 piṭa)
+3 ja gadha śata bhaṣe anata pada sahita
+eka gadha pada ṣeho ya ṣūtva uvaśamati. (prā. dha. [c. 10]
+
+[bjt page 48] [\x  48/]
+4. yo sahassaṁ sahassena saṅgāme mānuse jine 103
+ekañca jeyya attānaṁ sa ve saṅgāmajuttamo.
+
+5. attā have jitaṁ seyyo yā cāyaṁ itarā pajā 104
+attadantassa posassa niccaṁ saññatacārino.
+
+6. neva devo na gandhabbo na māro saha brahmunā 105
+jitaṁ apajitaṁ kayirā tathārūpassa jantuno.
+
+[pts page 016] [\q  16/]
+7. māse māse sahassena yo yajetha sataṁ samaṁ 106
+ekañca bhāvitattānaṁ muhuttampi pūjaye
+sā yeva pūjanā seyyā yañce vassasataṁ hutaṁ.
+
+8. yo ca vassasataṁ jantu aggiṁ paricare vane 107
+ekañca bhāvitattānaṁ muhuttampi pūjaye
+sā yeva pūjanā seyyā yañce vassasataṁ hutaṁ.
+
+9. yaṁ kiñci yiṭṭhaṁ va hutaṁ va loke 108
+saṁvaccharaṁ yajetha puññapekkho
+sabbampi taṁ na catubhāgameti
+abhivādanā ujjugatesu seyyā.
+
+10. abhivādanasīlissa niccaṁ vaddhāpacāyino 109
+cattārā dhammā vaḍḍhanti āyu vaṇṇo sukhaṁ balaṁ.
+
+4 yo śatāni sahasrāṇāṁ saṁgrāme manujān jayet
+yo caikaṁ jayedātmānaṁ sa vai saṁgrāmajidvara: . (mahāvastu. 3. 436 piṭa)
+yo sahasa sahasani sagami manuṣa jini
+eka ji. . . . atmana so ho sagamu utamu. (prā. dha. [c. 6]
+7 varṣe varṣeśvamedhena yo yajeta śataṁ samā:
+maṁsāni ca na khādedyastayo: puṇyaphalaṁ samam. (manu. [v. 53]
+yo yajeta sahasrāṇāṁ māse māse śatāśatam
+na so buddhe prasādasya kalāmarghati ṣoḍaśīm.
+(mahāvastu. 3. 436 piṭa)
+masi masi sahasina yo yaeva śatena ca
+nevi budhi prasadasa kala aveti ṣoḍaśa. (prā. dha. )
+8 yo ca varṣaśataṁ jīvedaganiṁ paricaranśacaret
+patrāhāro chamāvāsī karonto cividhaṁ tapam
+yaścaikaṁ bhāvitātmānaṁ muhūrtampi pūjayet
+sā ekā pūjanā śreyo na ca varṣaśataṁ hutam.
+(mahāvastu. 3. 436 piṭa)
+ya ja vaṣa śata jatu agi pariyara vane
+. . . . sa pi telena diva ratra atadrita
+eka ji bhavitatmana muhūtaviva puae
+sayeva puyana ṣebha yaji vaṣa śata hotu. (prā. dha. [c. 20, 21]
+9 yat kiṁcidiṣṭaṁ ca hutaṁ ca loke
+saṁvatsaraṁ yajati puṇyaprekṣo
+sarvaṁ hi taṁ na caturbhāgameti
+abhivādanaṁ ujjugateṣu śreyam. (mahāvastu. 3. 436 piṭa)
+ya kiji yiṭha va hota va loke
+. . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . .
+abhivadana ujukateṣu ṣiho. (prā. dha. [c. 22]
+10 abhivādanaśīlasya nityaṁ vṛddhopasevina:
+catvāri sampravardhante āyurvidyā yaśo balam.
+(masusmṛti. 2. 121)
+adhivadanaśilisa nica vṛḍhavasayino
+catvari tasa vardhati ayo kirti subha bala. (prā. dha. [cvo. 34]
+
+[bjt page 50] [\x  50/]
+11. yo ca vassasataṁ jīve dussīlo asamāhito 110
+ekāhaṁ jīvitaṁ seyyo sīlavantassa jhāyino.
+
+12. yo ca vassasataṁ jīve duppañño asamāhito 111
+ekāhaṁ jīvitaṁ seyyo paññavantassa jhāyino.
+
+13. yo ca vassasataṁ jīve kusīto hīnavīriyo 112
+ekāhaṁ jīvitaṁ seyyo viriyamārabhato daḷhaṁ.
+
+14. yo ca vassasataṁ jīve apassaṁ udayavyayaṁ 113
+ekāhaṁ jīvitaṁ seyyo passato udayavyayaṁ.
+
+[pts page 017] [\q  17/]
+15. yo ca vassasataṁ jīve apassaṁ amataṁ padaṁ 114
+ekāhaṁ jīvitaṁ seyyo passato amataṁ padaṁ.
+
+16. yo ca vassasataṁ jīve apassaṁ dhammamuttamaṁ 115
+ekāhaṁ jīvitaṁ seyyo passato dhammamuttamaṁ.
+
+sahassavaggo aṭṭhamo.
+
+9. pāpavaggo.
+
+1. abhitvaretha* kalyāṇe pāpā cittaṁ nivāraye 116
+dandhaṁ hi karoto puññaṁ pāpasmiṁ ramatī mano.
+
+11 yo ca varṣaśataṁ jīvedadu: śīlo asamāhita:
+ekāhaṁ jīvitaṁ śreya: śījavantasya dhyāyato.
+(mahāvastu. 3. 436 piṭa)
+13 yo ca varṣaśataṁ jīvet kuśīdo hīnavīryyavān
+ekāhaṁ jīvitaṁ śreya: śīlavantasya dhyāyato.
+(mahāvastu. 3. 436 piṭa)
+ya ji vaṣa śata jivi kusidhu hinaviriyava
+muhutu jīvita ṣebha viriya arahato dāḍha. (prā. dha. [c. 17]
+14 yo ca. . . . . . apaśyaṁ udayavyayam
+. . . . . . . paśyato udayavyayam. (mahāvastu. 3. 436 piṭa)
+ya ji vaṣa śata jivi apaśu uda
+muhuta jīvita ṣehu paśato udakavaya. (prā. dha. [c. 18]
+15 yo ca. . . . . . apaśyaṁ amṛtaṁ padam
+. . . . . . paśyato amṛtaṁ padam. (mahāvastu. 3. 436 piṭa)
+16 yo ca. . . . . . apaśyaṁ dharmamuttamam
+. . . . . . paśyato dharmamuttamam. (mahāvastu. 3. 436 piṭa)
+ya ja vaṣa śata jivi apaśu dhamu utamu
+muhuta jīvita sehu paśatu dhamu utamu. (prā. dha. [g. 19]
+* abhittharetha-bahūsu.
+
+[bjt page 52] [\x  52/]
+2. pāpaṁ ce puriso kayirā na taṁ kayirā punappunaṁ 117
+na tamhi chandaṁ kayirātha dukkho pāpassa uccayo.
+
+3. puññaṁ ce puriso kayirā kayirāthetaṁ punappunaṁ 118
+tamhi chandaṁ kayirātha sukho puññassa uccayo.
+
+4. pāpo'pi passati bhadraṁ yāva pāpaṁ na paccati 119
+yadā ca paccati pāpaṁ atha pāpo pāpāni passati
+
+[pts page 018] [\q  18/]
+5. bhadro'pi passati pāpaṁ yāva bhadraṁ na paccati 120
+yadā ca paccati bhadraṁ atha bhadro bhadrāni passati.
+
+6. mā'pamaññetha pāpassa na mantaṁ āgamissati 121
+udabindunipātena udakumbho'pi pūrati
+pūrati bālo pāpassa thokathokampi ācinaṁ.
+
+7. mā'pamaññetha puññassa na maṁ taṁ āgamissati 122
+udabindunipātena udakumbho'pi pūrati
+pūrati dhīro puññassa thokathokampi ācinaṁ.
+
+[bjt page 54] [\x  54/]
+8. vāṇijo'va bhayaṁ maggaṁ appasattho mahaddhano 123
+visaṁ jīvitukāmo'va pāpāni parivajjaye.
+
+9. pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṁ 124
+nābbaṇaṁ visamanveti natthi pāpaṁ akubbato.
+
+10. yo appaduṭṭhassa narassa dussati 125
+suddhassa posassa anaṅgaṇassa
+tameva bālaṁ pacceti pāpaṁ
+sukhumo rajo paṭivātaṁ'va khitto.
+
+11. gabbhameke'papajjanti nirayaṁ pāpakammino 126
+saggaṁ sugatino yanti parinibbanti anāsavā.
+
+[pts page 019] [\q  19/]
+12. na antalikkhe na samuddamajajhe 127
+na pabbatānaṁ vivaraṁ pavissa
+na vijjatī so jagatippadeso
+yatthaṭthito mucceyya pāpakammā.
+
+13. na antalikkhe na samuddamajajhe 128
+na pabbatānaṁ vivaraṁ pavissa
+na vijjati so jagatippadeso
+yatthaṭthitaṁ nappasahetha maccu.
+
+pāpavaggo navamo.
+
+11 narakaṁ pāpakarmāṇa: kṛtapuṇyastu svargatim.
+(udānavarga. [v. 24]
+12 na cāntarīkṣe na samudramadhye
+pa parvatānāṁ vividhapradeśe
+na mātṛmūrdhani pradhṛtastathāṅke
+tyaktuṁ kṣama: karma kṛtaṁ naro hi. (garuḍapurāṇa
+adhyāya. 113-20)
+
+[bjt page 56] [\x  56/]
+10. daṇaḍavaggo.
+
+1. sabbe tasanti daṇaḍassa sabbe bhāyanti maccuno 129
+attānaṁ upamaṁ katvā na haneyya na ghātaye.
+
+2. sabbe tasanti daṇaḍassa sabbesaṁ jīvitaṁ piyaṁ 130
+attānaṁ upamaṁ katvā na haneyya na ghātaye.
+
+3. sukhakāmāni bhūtāni yodaṇḍena vihiṁsati 131
+attano sukhamesāno pecca so na labhate sukhaṁ.
+
+[pts page 020] [\q  20/]
+4. sukhakāmāni bhūtāni yodaṇḍena na hiṁsati 132
+attano sukhamesāno pecca so labhate sukhaṁ.
+
+5. mā'voca pharusaṁ kañci vuttā paṭivadeyyu taṁ 133
+dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṁ.
+
+6. sa ce neresi attānaṁ kaṁso upahato yathā 134
+esa patto'si nibbāṇaṁ sārambho te na vijjati.
+
+7. yathā daṇḍena gopālo gā pāceti gocaraṁ 135
+evaṁ jarā ca maccu ca āyuṁ pācenti pāṇinaṁ.
+
+8. atha pāpāni kammāni karaṁ bālo na bujjhati 136
+sehi kammehi dummedho aggidaḍḍho'va tappati.
+
+1 prāṇā yathātmano'bhīṣṭā bhūtānāmpi te tathā
+ātmaupamyena bhūteṣū dayāṁ kurvanti sādhava: .
+(hitopadeśa. 1. 2)
+3 ahiṁsakāni bhūtāni daṇḍena vinihanti ya:
+ātmana: sukhamicchan sa pretya naiva sukhī bhavet.
+(mahābhārata. 13. 5565)
+yo'hiṁsakāni bhūtāni hinastyātmasukhecchayā
+sa jīvaṁśva mṛtaścaiva na kvacit sukhamedhate.
+(manusmṛti. 5. 45. )
+
+[bjt page 58] [\x  58/]
+9. yo daṇḍena adaṇḍesu appaduṭṭhesu dussati 137
+dasannamaññataraṁ ṭhānaṁ khippameva nigacchati.
+
+10. vedanaṁ pharusaṁ jāniṁ sarīrassa ca bhedanaṁ 138
+garukaṁ vāpi ābādhaṁ cittakkhepaṁ va pāpuṇe.
+
+11. rājato vā upassaggaṁ abbhakkhānaṁ va dāruṇaṁ 139
+parikkhayaṁ va ñātīnaṁ bhogānaṁ va pabhaṅguraṁ
+
+12. atha vāssa agārāni aggi ḍahati pāvako 140
+kāyassa bhedā duppañño nirayaṁ so upapajjati.
+
+[pts page 021] [\q  21/]
+13. na naggacariyā na jaṭā na paṅkā 141
+nānāsakā thaṇḍilasāyikā vā
+rājo ca jallaṁ ukkuṭikappadhānaṁ
+sodhenti maccaṁ avitiṇṇakaṅkhaṁ.
+14. alaṅkato ce'pi samaṁ careyya 142
+santo danto niyato brahmacārī
+sabbesu bhūtesu nidhāya daṇḍaṁ
+so brāhmaṇo so samaṇo sa bhikkhu.
+
+13 na nagnacaryyā na jaṭā na paṅko
+nānāśanaṁ sthaṇḍilaśāyikā vā
+na rajomalaṁ notakuṭukapradhānaṁ
+viśodhayenmohaviśīrṇakāṁkṣam. (divyāvadāna)
+14 alagito ya vi care a dhamu
+datu śatu sañatu brammayari
+savisu bhutesu nihai dana
+so bramaṇo so samaṇo so bhikhu. (prā. dha. [b. 39]
+. alakṛtaścāpi careta dharmaṁ
+dāntendriya: śānta: saṁyato brahmacārī
+sarveṣū bhūteṣū nidhāya daṇḍaṁ
+sa brāhmaṇa: sa śramaṇa: sa bhikṣu: . (divyādāna)
+
+[bjt page 60] [\x  60/]
+15. hirīnisedho puriso koci lokasmiṁ vijjati 143
+yo nindaṁ apabodhati asso bhadro kasāmiva.
+
+16. asso yathā bhadro kasāniviṭiṭho 144
+ātāpino saṁvegino bhavātha
+saddhāya sīlena ca vīriyena ca
+samādhinā dhammavinicchayena ca
+sampannavijjācaraṇā patissatā
+pahassatha dukkhamidaṁ anappakaṁ.
+
+17. udakaṁ hi nayanti nettikā usukārā namayanti tejanaṁ 145
+dāruṁ namayanti tacchakā attānaṁ damayanti subbatā.
+
+daṇḍavaggo dasamo.
+
+[pts page 022] [\q  22/]
+jarāvaggo.
+
+1. ko nu hāso kimānando niccaṁ pajjalite sati 146
+andhakārena onaddhā padīpaṁ na gavessatha.
+
+2. passa cittakataṁ bimbaṁ arukāyaṁ samussitaṁ 147
+āturaṁ bahusaṅkappaṁ yassa natthi dhuvaṁ ṭhiti.
+
+1 kā nu kīraḍā kā nu rati evaṁ prajvalite sadā andhakāre'smin prakṣiptā pradīpaṁ na gaveṣata.
+ko nu harṣo konu ānando evaṁ prajvalite sadā
+andhakāre, smin prakṣiptā ālokaṁ na prakāśaye.
+(mahāvastu. 3. 376 piṭa)
+
+[bjt page 62] [\x  62/]
+3. parijiṇṇamidaṁ rūpaṁ roganiḍḍhaṁ pabhaṅguraṁ 148
+bhijjati pūtisandeho maraṇantaṁ hi jīvitaṁ.
+
+4. yānimāni apatthāni alāpūneva sārade 149
+kāpotakāni aṭṭhīni tāni disvāna kā rati.
+
+5. aṭṭhīnaṁ nagaraṁ kataṁ maṁsalohitalepanaṁ 150
+yattha jarā ca maccu ca māno makkho ca ohito.
+
+6. jīranti ve rāja rathā sucittā 151
+atho sarīrampi jaraṁ upeti.
+satañca dhammo na jaraṁ upeti
+santo have sabbhi pavedayanti.
+
+7. appassutāyaṁ puriso balivaddo'va jīrati 152
+maṁsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati.
+
+[pts page 023] [\q  23/]
+8. anekajāti saṁsāraṁ sandhāvissaṁ anibbisaṁ 153
+gahakārakaṁ gavesanto dukkhā jāti punappunaṁ.
+
+3 parijīṇīpidaṁ rūpaṁ roganīḍaṁ prabhaṅguram
+bhidyate pūti sandehaṁ maraṇāntaṁ hi jīvitam. (udānavarga. [v](34)
+parijinamida ru rovu a niḍa prabhaguno
+bheṁsiti. . . . . . . . . . . . . (prā. dha. [c][vo. 16]
+5 asthīsthūnaṁ syāyuyutaṁ māṁsaśoṇitalepanam
+carmāvanaddhaṁ durgandhi pūrṇaṁ mūtra purīṣayo:
+jarāśokasamāviṣṭaṁ rogāyatanamāturam
+rajasvalamanityaṁ ca bhūtāvāsmidaṁ tyajet. (manusmṛti. [vi](77)
+6 cīryanti vai rājarathā: sucitrā
+hyato śarīrampi jarāmupeti
+satāntu dharmo na jarāmupeti
+santo hi taṁ satsu nivedayanti. (udānavarga. [v. 28]
+jiyarati hi rayaradha sucitra
+adha śarira bi jara uveti
+sata tu dharma na jara uveti
+sato hiva sahi pravedayiti. (prā. dha. [c][ov. 21]
+
+[bjt page 64] [\x  64/]
+9. gahakāraka diṭṭho'si puna gehaṁ na kāhasi 154
+sabbā te phāsukā bhaggā gahakauṭaṁ visaṅkhitaṁ
+visaṅkhāragataṁ cittaṁ taṇhānaṁ khayamajjhagā.
+
+10. acaritvā brahmacariyaṁ aladdhā yobbane dhanaṁ 155
+jiṇṇakoñcā, va jhāyanti khīṇamaccheva pallale.
+
+11. acaritvā brahmacariyaṁ aladdhā yobbane dhanaṁ 156
+senti cāpā'tikhittā'va purāṇāni anutthunaṁ.
+
+jarāvaggo ekādasamo.
+
+12. attavaggo.
+
+1. attānaṁ ce piyaṁ jaññā rakkheyya naṁ surakkhitaṁ 157
+tiṇṇamaññataraṁ yāmaṁ paṭijaggeyya paṇḍito.
+
+2. attānameva paṭhamaṁ patirūpe nivesaye 158
+athaññamanusāseyya na kilisseyya paṇḍito.
+
+[pts page 024] [\q  24/]
+3. attānañce tathā kayirā yathaññamanusāsati 159
+sudanto vata dammetha attā hi kira duddamo.
+
+4. attā hi attano nātho kohi nātho paro siyā 160
+attanā'va sudantena nāthaṁ labhati dullabhaṁ.
+
+4 ātmābhi ātmano nātha: ko nu nātha: paro bhavet
+ātmanā ti sudāntena svargaṁ prāpnoti paṇḍita: .
+(bodhicaryāvatāra. 480)
+
+[bjt page 66] [\x  66/]
+5. attanā'va kataṁ pāpaṁ attajaṁ attasambhavaṁ 161
+abhimatthati dummedhaṁ vajiraṁ'vasmamayaṁ maṇiṁ.
+
+6. yassa accantadussīlyaṁ māluvā sālamivotataṁ 162
+karoti so tathattānaṁ yathā naṁ icchatī diso.
+
+7. sukarāni asādhūni attano ahitāni ca 163
+yaṁ ve hitañca sādhuṁ ca taṁ ve paramadukkaraṁ.
+
+8. yo sāsanaṁ arahataṁ ariyānaṁ dhammajīvinaṁ 164
+paṭikkosati dummedho diṭṭhiṁ nissāya pāpikaṁ
+phalāni kaṭṭhakasseva attaghaññāya phallati.
+
+9. attanā'va kataṁ pāpaṁ attanā saṁkilissati 165
+attanā akataṁ pāpaṁ attanā'va visujjhati
+suddhi asuddhi paccattaṁ nāññamañño visodhaye.
+
+[pts page 025] [\q  25/]
+10. attadatthaṁ paratthena bahunā'pi na hāpaye 166
+attadatthambhiññāya sadatthapasuto siyā.
+
+attavaggo dvādasamo.
+
+13. lokavaggo.
+
+1. hīnaṁ dhammaṁ na seveyya pamādena na saṁvase 167
+micchādiṭṭhiṁ na seveyya na siyā lokavaddhano.
+
+2. uttiṭṭhe nappamajjeyya dhammaṁ sucaritaṁ care 168
+dhammacāri sukhaṁ seti asmiṁ loke paramhi ca.
+
+5 ātmanā vihitaṁ du: khamātmanā cihitaṁ sukham
+garbhaśayyāmupādāya bhuṁṅketa vai paurvadehikam.
+(garuḍa purāṇa. 119 adhyāya. 19)
+6 yasa acata druśilia malu a vavi lata vani.
+kuya su tadhatmana yadha na viṣamu ijati. (prā. dha. [c. 32]
+1 hīnaṁ dharmaṁ na seveta pramādena na saṁvaset
+mithyādṛṣṭiṁ na seveta na bhavellākavardhana: .
+(udānavarga. 4. 5. 8)
+hina dhama na sevea pramadena na savasi
+michā diṭhī na royea na sia lokavaḍhano. (prā. dha. [a. 3](6)
+2 uttiṣaṭhenna pramadyena dharmaṁ sucaritaṁ caret
+dharmacārī sukhaṁ śete hyasmin loke paratra ca.
+(udānavarga. 4. 5. 35)
+utiṭṭhe na pramajea dhamu sucarita vari
+dhamavari suhu śeti asami loki parasa yi. (prā. dha. [a. 3](6)
+
+[bjt page 68] [\x  68/]
+3. dhammaṁ care sucaritaṁ na naṁ duccaritaṁ care 169
+dhammacārī sukhaṁ seti asmiṁ loke paramhi ca.
+
+4. yathā bubbulakaṁ passe yathā passe marīcikaṁ 170
+evaṁ lokaṁ avekkhantaṁ maccurājā na passati.
+
+5. etha passathiraṁ lokaṁ cittaṁ rājarathūpamaṁ 171
+yattha bālā visīdanti natthi saṅgo vijānataṁ.
+
+[pts page 026] [\q  26/]
+6. yo ca pubbe pamajjitvā pacchā so nappamajjati 172
+so imaṁ lokaṁ pabhāseti abbhā mutto'va candimā.
+
+7. yassa pāsaṁ kataṁ kammaṁ kusalena pithīyati 173
+so imaṁ lokaṁ pabhāseti abbhā mutto'va candimā.
+8. andhabhūto ayaṁ loko tanukettha vipassati 174
+sakunto jālamutto'va appo saggāya gacchati.
+
+9. haṁsādiccapathe yanti ākāse yanti iddhiyā 175
+niyyanti dhīrā lokamhā jitvā māraṁ savāhiniṁ.
+
+10. ekaṁ dhammaṁ atītassa musāvādissa jantūno 176
+vitiṇṇaparalokassa natthi pāpaṁ akāriyaṁ.
+
+3 dharmaṁ caret sucaritaṁ nainaṁ duścaritaṁ caret
+dharmacārī sukhaṁ śete asmiṁlloke paratra ca.
+(mahāvastu. 1. 220 piṭa)
+dhamu cari suvarita. . . . . . . carita cari
+dhamayari subha śeti asmi loki parasa yi. (prā. dha. [c. 30]
+6 yo tu puci pramajati paja su na pramajati
+so ita lokū obhāseti abhamuto va sūriu. (prā. dha. [a. 2](3)
+
+[bjt page 70] [\x  70/]
+11. na ve kadariyā devalokaṁ vajanti 177 bālā have nappasaṁsanti dānaṁ
+dhīro ca dānaṁ anumodamāno
+teneva so hoti sūkhī parattha.
+
+12. pathavyā ekarajjena saggassa gamanena vā 178
+sabbalokādhipaccena sotāpattiphalaṁ varaṁ.
+
+lokavaggo terasamo.
+
+14. buddhavaggo.
+
+[pts page 027] [\q  27/]
+1. yassa jitaṁ nāvajīyati jitamassa no yāti koci loke 179
+tambuddhamanantagocaraṁ apadaṁ kena padena nessatha.
+
+2. yassa jālinī visattikā taṇhā natthi kuhiñci netave 180
+tambuddhamanantagocaraṁ apadaṁ kena padena nessatha.
+
+3. ye jhānapasutā dhīrā nekkhammūpasame ratā 181
+devā'pi tesaṁ pihayanti sambuddhānaṁ satīmataṁ.
+
+4. kiccho manussapaṭilābho kicchaṁ macchāna jīvitaṁ 182
+kicchaṁ saddhammasavanaṁ kiccho buddhānaṁ uppādo.
+
+1 yasya jitaṁ nātha jīyati jitamasya na jināti antaka:
+tambuddhamanantagovaraṁ apadaṁ kena padena neṣyatha.
+(mahāvastu. 3. 92 piṭa)
+2 yasya jālinī visattikā tṛṣṇā nāsya khimpi netirakā
+tambuddhamantavikramaṁ apadaṁ kena padena neṣyatha.
+(mahāvastu. 3. 92 piṭa)
+
+[bjt page 72] [\x  72/]
+5. sabbapāpassa akaraṇaṁ kusalassa upasampadā 183
+sacittapariyodapanaṁ etaṁ buddhāna sāsanaṁ.
+
+6. khantī paramaṁ tapo titikkhā 184
+nibbāṇaṁ paramaṁ vadanti buddhā
+na hi pabbajito parūpaghātī
+samaṇo hoti paraṁ viheṭhayanto.
+
+7. anūpavādo anūpaghāto pātimokkhe ca saṁvaro 185
+mattaññutā ca bhattasmiṁ pantañca sayanāsanaṁ
+adhicitte ca āyogo etaṁ buddhāna sāsanaṁ.
+
+[pts page 028] [\q  28/]
+8. na kahāpaṇavassena titti kāmesu vijjati 186
+appassādā dukhā kāmā iti viññāya paṇḍito.
+
+9. api dibbesu kāmesu ratiṁ so nādhigacchati 187
+taṇhakkhayarato hoti sammāsambuddhasāvako.
+
+10. bahū ve saraṇaṁ yanti pabbatāni vanāni ca 188
+ārāmarukkhacetyāni manussā bhayatajjitā.
+
+11. netaṁ kho saraṇaṁ khemaṁ netaṁ saraṇamuttamaṁ 189
+netaṁ saraṇamāgamma sabbadukkhā pamuccati.
+
+5 sarvapāpasyākaraṇaṁ kuśalasyopasampadā
+svacittaparyādāpaṇametadbuddhānuśāsanam. (mahāvastu. 3. 420 piṭa)
+10 bahava: śaraṇaṁ yānti parvatāṁśva vanāni ca
+ārāmacaitya vṛkṣāṁśca manuṣyā bhayatarjitā: .
+11 na hyetaccharaṇaṁ śreṣṭhaṁ naitaccharaṇamuttamam
+naitaccharaṇamāgamya sarvadu: khāt pramuvyate.
+
+[bjt page 74] [\x  74/]
+12. yo ca buddhañca dhammañca saṅghañca saraṇaṁ gato 190 cattāri ariyasaccāni sammappaññāya passati.
+
+13. dukkhaṁ dukkhasamuppādaṁ dukkhassa ca atikkamaṁ 191
+ariyañcaṭṭhaṅgikaṁ maggaṁ dukkhūpasamagāminaṁ.
+
+14. etaṁ kho saraṇaṁ khemaṁ etaṁ saraṇamuttamaṁ 192
+etaṁ saraṇamāgamma sabbadukkhā pamuccati.
+
+15. dullabho purisājañño na so sabbattha jāyati 193
+yattha so jāyati dhīro taṁ kūlaṁ sukhamedhati.
+
+16. sukho buddhānaṁ uppādo sukhā saddhammadesanā 194
+sukhā saṅghassa sāmaggi samaggānaṁ tapo sukho.
+
+17. pūjārahe pūjayato buddhe yadi va sāvake 195
+papañca samatikkante tiṇṇasokapariddave.
+
+[pts page 029] [\q  29/]
+18. te tādise pūjayato nibbute akutobhaye 196
+na sakkā puññaṁ saṅkhātuṁ imettamapi kenaci.
+
+cuddasamo buddhavaggo.
+
+paṭhamakabhāṇavāraṁ.
+
+[pts page 030] [\q  30/]
+15. sukhavaggo.
+
+1. susukhaṁ vata jīvāma verinesu averino 197
+verinesu manussesu viharāma averino.
+
+12 yastu buddhaṁ ca dharmaṁ ca saṅghaṁ ca śaraṇaṁ gata:
+āryyasatyāni catvāri paśyati pragñayā sadā.
+
+13 du: khaṁ du: khasamutpādaṁ du: khasya samatikramam
+āryyaṁ cāṣṭāṁgikaṁ mārgaṁ kṣemaṁ nirvāṇagāminam.
+(udānavarga. 17. 28-31)
+14 etaddhi śaraṇaṁ śreṣṭhaṁ etaccharaṇamuttamam
+etaccharaṇamāgamya sarvadu: khāt pramucyate. (udānavarga. 27-31)
+15 durlabha: puruṣājānyo nās sarvauatra jāyate
+yatrās jauāyate vīra: tat kulaṁ sukhamedhate.
+(mahāvastu. 3. 109 piṭa)
+dulabho poruṣa jaño na so sarvatra jayati
+yatra so jayati viru ta kulu suhumedhati. (prā. dha. [c][v]ḍha. 35)
+16 buddhānaṁ sukhamutpāda: sukhā dharmasya deśanā
+sukhā saṅghasya sāmagira śramaṇānāṁ tapassukham.
+(prātimokṣa sūtra. 9)
+1 susukhaṁ vata jīvāmo vairikeṣu tvavairikā:
+vairikeṣu manuṣyeṣu viharāmo hyavairikā: . (udānavarga. 5. 44)
+suhai vata jivamu veraneṣu averana
+veraneṣu manuśeṣu viharamu averana. (prā. dha. [c][vo. 28]
+
+[bjt page 76] [\x  76/]
+2. susukhaṁ vata jīvāma āturesu anāturā 198
+āturesu manussesu viharāma anāturā.
+
+3. susukhaṁ vata jīvāma ussūkesu anussukā 199
+ussukesu manussesu viharāma anussukā.
+
+4. susukhaṁ vata jīvāma yesaṁ no natthi kiñcanaṁ 200
+pītibhakkhā bhavissāma devā ābhassarā yathā.
+
+5. jayaṁ veraṁ pasavati dukkhaṁ seti parājito 201
+upasanto sukhaṁ seti hatmā jayaparājayaṁ.
+
+6. natthi rāgasamo aggi natthi dosasamo kali 202
+natthi khandhasamā dukkhā katthi santiparaṁ sukhaṁ.
+
+7. jighacchāparamā rogā saṅkhāraparamā dukhā 203
+etaṁ ñatvā yathābhūtaṁ nibbāṇaparamaṁ sukhaṁ.
+
+8. ārogyaparamā lābhā santuṭṭhiparamaṁ dhanaṁ 204
+vissāsaparamā ñātī nibbāṇaparamaṁ sukhaṁ.
+
+[pts page 031] [\q  31/]
+9. pavivekarasaṁ pītvā rasaṁ upasamassa ca 205
+niddaro hoti nippāpo dhammapītirasaṁ pibaṁ.
+
+3 susukhaṁ vata jīvāmo hyutsukeṣu tvanutsukā:
+utsukeṣū manuṣyeṣu viharāmo hyanutasukā: . (udānavarga. 5. 47)
+4 susukhaṁ vata jīvāmo yeṣāṁ no nāstī kiṁcanam pīratibhakṣā bhaviṣyāmo devā hyābhāsvarā yathā. (udānavarga. 30. 49)
+susukhaṁ vata jīvāmi yasya me nāsti kiṁcana
+mithilāyāṁ pradīptāyāṁ na me dahyati kiṁcana. (mahābhārata. 12. 9917)
+suha i vata jivamu yesa mu nathi kijani
+kijaneṣu manuśeṣu viharamu akijana. (prā. dha. [c][vo. 30]
+5 jayo vairaṁ prasavati du: khaṁ śete parājita:
+upaśānta: sukhaṁ śete bhitvā jayaparājayama. (avadānaśataka)
+jaya vera prasahati dukhu śayati parayitu
+uvaśatu sohu śayati hitva jaya parajaya a. (prā. dha. [c][vo. 43. ]
+8 aroga parama labha satuṭhī parama dhana
+viśpaśa parama mitra nivana paramo suha. (prā. dha. [c]. 24)
+
+[bjt page 78] [\x  78/]
+10. sāhu dassanamariyānaṁ sannivāso sadā sukho 206
+adassanena bālānaṁ niccameva sukhī siyā.
+
+11. bālasaṅgatacārīhi dīghamaddhāna socati 207
+dukkho bālehi saṁvāso amitteneva sabbadā
+dhīro ca sukhasaṁvāso ñātīnaṁ'va samāgamo.
+
+12. tasmāhi,
+dhīrañca paññca bahussutañca 208
+dhorayhasīlaṁ vatavantamāriyaṁ
+taṁ tādisaṁ sappurisaṁ sumedhaṁ
+bhajetha nakkhattapathaṁ'va candimā.
+
+paṇṇarasamo sukhavaggo.
+
+16. piyavaggo.
+
+1. ayoge yuñjamattānaṁ yogasmiñca ayojayaṁ 209
+atthaṁ hitvā piyaggāhī pihetattānuyoginaṁ.
+
+[pts page 032] [\q  32/]
+2. mā piyehi samāgañchī appiyehi kudācanaṁ 210
+piyānaṁ adassanaṁ dukkhaṁ appiyānañca dassanaṁ.
+
+3. tasmā piyaṁ na kayirātha piyāpāyo hi pāpako 211
+ganthā tesaṁ na vijjanti yesaṁ natthi piyāppiyaṁ.
+
+4. piyato jāyatī soko piyato jāyatī bhayaṁ 212
+piyato vippamuttassa natthi soko kuto bhayaṁ.
+
+5. pemato jāyatī soko pemato jāyatī bhayaṁ 213
+pemato vippamuttassa natthi soko kuto bhayaṁ.
+
+10 sukhaṁ darśanamāryāṇāṁ saṁvāso'pi satāṁ suha:
+adarśanena bālānaṁ nityameva sukhaṁ bhavet. (prātimokṣasūtra. 10)
+suha darśata ariana savaso ci sada suho
+adasanena balana nicameva suhi sia. (prā. dha. [c][vo. 37]
+11 bala sagatacariu dīraghamadhvana śoyiṣu
+dukha belehi savasu amitrehi va savusi. (prā. dha. [c][vo. 38]
+dhiro ca sukha savasa ñatihi va savusi. (prā. dha. [c][vo. 38]
+12 dhira hi prañamu bhayeya panito
+dhoreka śala vatamata ariya
+ta tadiśa sapuruṣa sumedha
+bhaya. . . . na chatrapatha va candrimu
+radhe arovacamasa parikica uvahana. (prā. dha. [c][vo. 39. 40]
+4 pirayebhyo jāyate śoka: pirayebhyo jāyate bhayam
+pirayebhyo vipramaktānāṁ nāsti śoka: kuto bhayam.
+(avadānaśataka. 8)
+
+[bjt page 80] [\x  80/]
+6. ratiyā jāyatī soko ratiyā jāyatī bhayaṁ 214
+ratiyā vippamuttassa natthi soko kuto bhayaṁ.
+
+7. kāmato jāyatī soko kāmato jāyatī bhayaṁ 215
+kāmato vippamuttassa natthi soko kuto bhayaṁ.
+
+8. taṇhāya jāyatī soko taṇhāya jāyatī bhayaṁ 216
+taṇhāya vippamuttassa natthi soko kuto bhayaṁ.
+
+9. sīladassanasampannaṁ dhammaṭṭhaṁ saccavedinaṁ 217
+attano kamma kubbānaṁ taṁ jano kurute piyaṁ.
+
+10. chandajāto anakkhāte manasā ca phuṭo siyā 218
+kāmesu ca appaṭibaddhacitto uddhaṁ soto'ti vuccati.
+
+11. cirappavāsiṁ purisaṁ dūrato sotthimāgataṁ 219
+√ātimittā suhajjā ca abhinandanti āgataṁ.
+
+[pts page 033] [\q  33/]
+12. tatheva katapuññampi asmā lokā paraṁ gataṁ 220
+puññāni patigaṇhanti piyaṁ ñātīva āgataṁ.
+
+soḷasamo piyavaggo.
+
+17. kodhavaggo.
+
+1. kodhaṁ jahe vippajaheyya mānaṁ 222
+tamahaṁ sārathiṁ brūmi rasmggāho itaro jano.
+
+9 Śīlamatu suyi sacho dhamaṭho sadhujivano
+atmano karako sadhū ta jano kurati pirau. (prā. dha. [c. 24]
+dharmasthaṁ śīlasampannaṁ
+hīmantaṁ satyavādinam
+ātmana: kārakaṁ śāntaṁ
+taṁ jana: kurute pirayam. (saṁskṛtadharmapada. 5. 24)
+
+[bjt page 82] [\x  82/]
+3. akkodhena jine kodhaṁ asādhuṁ sādhunā jine 223
+jine kadariyaṁ dānena saccena alikavādinaṁ.
+
+4. saccaṁ bhaṇe na kujjheyya dajjāppasmimpi yācito 224
+etehi tīhi ṭhānehi gacche devāna santike.
+
+[pts page 034] [\q  34/]
+5. ahiṁsakā ye munayo niccaṁ kāyenasaṁvutā 225
+te yanti accutaṁ ṭhānaṁ yattha gantvā na socare.
+
+6. sadā jāgaramānānaṁ ahorattānusikkhinaṁ 226
+nibbāṇaṁ adhimuttānaṁ atthaṁ gacchanti āsavā.
+
+7. porāṇametaṁ atula netaṁ ajjatanāmiva 227
+nindanti tuṇhimāsīnaṁ nindanti bahubhāṇinaṁ
+mitabhāṇimpi nindanti natthi loke anindito.
+
+8. na cāhu na ca bhavissati na cetarahi vijjati 228
+ekantaṁ nindito poso ekantaṁ vā pasaṁsito.
+
+9. yañce viññū pasaṁsanti anuvicca suve suve 229
+acchiddavuttiṁ medhāviṁ paññāsīlasamāhitaṁ.
+
+10. nekkhaṁ jambonadasseva ko taṁ ninditumarahati 230
+devā'pi naṁ pasaṁsanti brahmunā'pi pasaṁsito.
+
+11. kāyappakopaṁ rakkheyya kāyena saṁvuto siyā 231
+kāyaduccaritaṁ hitvā kāyena sucaritaṁ care.
+
+12. vacīpakopaṁ rakkheyya vācāya saṁvuto siyā 232
+vacīduccaritaṁ hitvā vācāya sucaritaṁ care.
+
+13. manopakopaṁ rakkheyya manasā saṁvuto siyā 233
+manoduccaritaṁ hitvā manasā sucaritaṁ care.
+
+3 akrodhena jayet krodhaṁ
+asādhūṁ sādhunā jayet.
+jayet kadaryaṁ dānena
+satyenā nṛta vādinam. (mahābhārata)
+
+[bjt page 84] [\x  84/]
+14. kāyena saṁvutā dhīrā atho vācāya saṁvutā 234
+manasā saṁvutā dhīrā te ve suparisaṁvutā.
+
+sattarasamo kodhavaggo.
+
+[pts page 035] [\q  35/]
+18. malavaggo.
+
+1. paṇḍupalāso'va dāni'si yamapurisā'pi ca taṁ upaṭṭhitā 235
+uyyogamukhe ca tiṭṭhasi patheyyampi ca te na vijjati.
+
+2. so karohi dīpamattano khippa vāyama paṇḍito bhava 236
+niddhantamalo anaṅgaṇo dibbaṁ ariyabhūmimehisi.
+
+3. upanītavayo ca dāni'si sampayāto'si yamassa santike 237
+vāso'pi cate tthi antarā pātheyyampi ca te na vijjati.
+
+4. so karohi dīpamattano khippa vāyama paṇḍito bhava 238
+niddhantamalo anaṅgaṇo na puna jātijaraṁ upehisi.
+
+5. anupubbena medhāvī thokathokaṁ khaṇe khaṇe 239
+kammāro rajatasseva niddhame malamattano.
+
+6. ayasā'va malaṁ samuṭṭhitaṁ taduṭṭhāya tameva khādati 240
+evaṁ atidhonacārinaṁ sakakammāni nayanti duggatiṁ.
+
+[pts page 036] [\q  36/]
+7. asajjhāyamalā mantā anuṭṭhānamalā gharā 241
+malaṁ vaṇṇassa kosajjaṁ pamādo rakkhato malaṁ.
+
+8. malitthiyā duccaritaṁ maccheraṁ dadato malaṁ 242
+malā ve pāpakā dhammā asmiṁ loke paramhi ca.
+
+[bjt page 86] [\x  86/]
+9. tato malā malataraṁ avijjā paramaṁ malaṁ 243
+etaṁ malaṁ pahatvāna nimmalā hotha bhikkhavo.
+
+10. sujīvaṁ ahirikena kākasūrena dhaṁsinā 244
+pakkhandinā pagabbhena saṁkiliṭṭhena jīvitaṁ.
+
+11. hirimatā ca dujjīvaṁ niccaṁ sucigavesinā 245
+alīnenāpagabbhena suddhājīvena passatā.
+
+12. yo pāṇamatipāteti musāvādaṁ ca bhāsati 246
+loke adinnaṁ ādiyati paradāraṁ ca gacchati.
+
+13. surāmerayapānaṁ ca yo naro anuyuñjati 247
+idheva poso lokasmiṁ mūlaṁ khaṇati attano.
+
+14. evambho purisa jānāhi pāpadhammā asaññatā 248
+mā taṁ lobho adhammo ca ciraṁ dukkhāya randhayuṁ.
+
+15. dadāti ve yathā saddhaṁ yathā pasādanaṁ jano 249
+tattha ve maṅku yo hoti paresaṁ pānabhojane
+na so divā vā rattiṁ vā samādhiṁ adhigacchati.
+
+[pts page 037] [\q  37/]
+16. yassa cetaṁ samucchannaṁ mūlaghaccaṁ samūhataṁ 250
+sa ve divā vā rattiṁ vā samādhiṁ adhigacchati.
+
+17. natthi rāgasamo aggi natthi dosasamo gaho 251
+natthi mohasamaṁ jālaṁ natthi taṇhāsamā nadī.
+
+18. sudassaṁ vajjamaññesaṁ attano pana duddasaṁ 252
+paresaṁ hi so vajjāni opuṇāti yathā bhūsaṁ
+attano pana chādeti kaliṁ'va kitavā saṭho.
+
+19. paravajjānupassissa niccaṁ ujjhānasaññino 253
+āsavā tassa vaḍḍhanti ārā so āsavakkhayā.
+
+[bjt page 88] [\x  88/]
+20. ākāse padaṁ natthi samaṇo natthi bāhire 254
+papañcābhiratā pajā nippapañcā tathāgatā.
+
+21. ākāse padaṁ natthi samaṇo natthi bāhire 255
+saṅkhārā sassatā natthi natthi buddhānaṁ iñjitaṁ.
+
+malavaggo aṭṭhārasamo.
+
+[pts page 038] [\q  38/]
+19. dhammaṭṭhavaggo.
+
+1. na tena hoti dhammaṭṭho yenatthaṁ sahasā naye 256
+yo ca atthaṁ anatthañca ubho niccheyya paṇḍito.
+
+2. asāhasena dhammena samena nayatī pare 257
+dhammassa gutto medhāvī dhammaṭṭho'ti pavuccati.
+
+3. na tena paṇḍito hoti yāvatā bahu bhāsati 258
+khemī averī abhayo paṇḍito'ti pavuccati.
+
+4. na tāvatā dhammadharā yāvatā bahu bhāsati 259
+yo ca appampi sutvāna dhammaṁ kāyena passati
+sa ve dhammadharo hoti yo dhammaṁ nappamajjati.
+
+5. na tena thero hoti yenassa palitaṁ siro 260
+paripakko vayo tassa moghajiṇṇo'ti vuccati.
+
+4 na tāvatā dharmadharo yāvatā bahu bhāṣate
+yastvīhālpamapi śrutvā dharmakāyena vai spṛśet
+sa vai dharmadharo bhavati yo dharme na pramadyate.
+(udānavarga. 4. 5. 21)
+na tavata dhamadharo yavata baho bhaṣati
+yo tu apa bi śūtvana dhamu kaphana phasati
+sa ho dhamadharo hoti yo dhamu na pramajati.
+(prā. dha. [a. 3](10)
+5 na tena vṛddho bhavati yenāsya palitaṁ śīra:
+yo vai yuvā'pyadhīyānastaṁdevā: sthaviraṁ vidu: . (manusmṛti. 2. 158)
+
+[bjt page 90] [\x  90/]
+6. yamhi saccaṁ ca dhammo ca ahiṁsā saṁyamo damo 261
+sa ve vantamalo dhīro thero iti pavuccati.
+
+7. na vākkaraṇamattena vaṇṇapokkharatāya vā 262
+sādhurūpo naro hoti issukī maccharī saṭho.
+
+8. yassa ce taṁ samucchinnaṁ mūlaghaccaṁ samūhataṁ 263
+sa vantadoso medhāvī sādhurūpo'ti vuccati.
+
+9. na muṇḍakena samaṇo abbato alikaṁ bhaṇaṁ 264
+icchālobhasamāpanno samaṇo kiṁ bhavissati.
+
+[pts page 039] [\q  39/]
+10. yo ca sameti pāpāni aṇuṁ thūlāni sabbaso 265
+samitattā hi pāpānaṁ samaṇo'ti pavuccati.
+
+11. na tena bhikkhū hoti yāvatā bhikkhate pare 266
+vissaṁ dhammaṁ samādāya bhikkhu hoti na tāvatā.
+
+12. yo'dha puññca pāpañca bāhetvā brahmacariyavā 267
+saṅkhāya loke carati sa ce bhikkhū'ti vuccati.
+
+13. na monena muni hoti mūḷharūpo aviddasu 268
+yo ca tulaṁ'va paggayha varamādāya paṇḍito.
+
+11 bhikṣurna tāvatā bhavati yācatā bhakṣate parān
+viṣamān dharmān samādāya bhikṣurbhoti na tāvatā.
+(mahāvastu. 3 piṭa. 423)
+na bhikhu tavata hoti yavata bhichati para
+viśpadharma samadai bhikhu hoti na tavata. (prā. dha. [b. 26]
+12 yastukāmāṁśva pāpaṁ ca dhikkṛtvā brahmacaryavān
+ni: śreṇibhūto sapragño savai bhikṣurīti ucyate.
+(mahāvastu. 3 piṭa. 423)
+yā tu baheti pavana vata va bramacayiyava
+saghai carati loku so tu bhikhu tu vucati. (prā. dha. [b. 27]
+
+[bjt page 92] [\x  92/]
+14. pāpāni parivajjeti sa manī tena so muni 269
+yo munāti ubho loke muni tena pavuccati.
+
+15. na tena ariyo hoti yena pāṇāni hiṁsati 270
+ahiṁsā sabbapāṇānaṁ ariyo'ti pavuccati.
+
+16. na sīlabbatamattena bāhusaccena vā pana 271
+atha vā samādhilābhena vivicca sayanena vā.
+
+17. phusāmi nekkhammasukhaṁ aputhujjanasevitaṁ 272
+bhikkhu vissāsamāpādi appatto āsavakkhayaṁ.
+
+dhammaṭṭhavaggo ekūnavīsatimo.
+[pts page 040] [\q  40/]
+
+20. maggavaggo.
+
+1. maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā 273
+virāgo seṭṭho dhammānaṁ divipadānaṁ ca cakkhumā.
+
+2. eso'va maggo natthañño dassanassa visuddhiyā 274
+etaṁ hi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.
+
+3. etaṁ hi tumhe paṭipannā dukkhassantaṁ karissatha 275
+akkhāto ve mayā maggo aññāya sallasatthanaṁ.
+
+16 na śīlavratamātreṇa bāhuśrutyena vā puna:
+atha vā samādhilābhena prāntaśayyāsanena ca
+na śilavatamatrena bahosutena va pano
+adha samadhilabhena vivitaśayanena va. (prā. dha. [b. 22]
+17 spṛhayaṁ naiṣkāmyasukhaṁ apṛthagjanasevitam
+bhikṣu viśvāsammāpado aprāpte aśravakṣaye. (udānavarga)
+phuṣamu nekhamasukhu aprudhajanasevi
+hikhu viśpaśama. . . . . . . . apate aśava chaye. (prā. dha. [b. 25]
+1 magana aṭhagio śeṭho savana cauri pada
+viraku śeṭho dhamana praṇagutana cakhuma. (prā. dha. [a](3. 4)
+
+[bjt page 94] [\x  94/]
+4. tumhehi kiccaṁ ātappaṁ akkhātāro tathāgatā 276
+paṭipannā pamokkhanti jhāyino mārabandhanā.
+
+5. sabbe baṅkhārā aniccā'ti yadā paññāya passati 277
+atha nibbindati dukkhe esa maggo visuddhiyā.
+
+6. sabbe baṅkhārā dukkhā'ti yadā paññāya passati 278
+atha nibbindati dukkhe esa maggo visuddhiyā.
+
+7. sabbe dhammā anattā'ti yadā paññāya passati 277
+atha nibbindati dukkhe esa maggo visuddhiyā.
+
+8. uṭṭhānakālamhi anuṭṭhahāno 278
+yuvā balī ālasiyaṁ upeto
+saṁsannasaṅkappamano kusīto
+paññāya maggaṁ alaso na vindati.
+
+[pts page 041] [\q  41/]
+9. vācānurakkhī manasā susaṁvuto 281
+kāyena ca akusalaṁ na kayirā
+ete tayo kammapathe visodhaye
+ārādhaye maggaṁ isippaveditaṁ.
+
+10. yogā ve jāti bhūri ayogā bhūrisaṅkhayo 282
+etaṁ dvedhā pathaṁ ñatvā bhavāya vibhavāya ca
+tathattānaṁ niveseyya yathā bhūri pavaḍḍhati.
+
+5 savi saghara anica ti yada prañaya paśati
+tada nivinati dukha eso magu visodhi a.
+6 savi sasara dukha ti yada prañae gradhati
+tada nivinati dukha eṣo mago visodhi a. (prā. dha. [a](3. 1. 2)
+7 sarva dhama anatma ti yada paśati cachuma
+tada nivinati dukha eṣo mago visodhi a. (prā. dha. [a](3. 3)
+8 utthāna kāleṣū nibhinavīryyoyuvā balī. . . . . . . ko nirāśa:
+sadeva saṁkalpahata: kusīdo gñānasya mārgaṁ satataṁ na vetti.
+(udānavarga apramāda. 5. 21)
+uṭhane alasa anuṭhahatu yoi bali alasae uvito
+saṁsana sagapa mano samatima prañai maga alasu na vinati.
+(prā. dha. [a](3. 9)
+
+[bjt page 96] [\x  96/]
+11. vanaṁ chindatha mā rukkhaṁ vanato jāyatī bhayaṁ 283
+chetvā vanañca vanathañca nibbanā hotha bhikkhavo.
+
+12. yāvaṁ vanatho na chijjati anumatto'pi narassa nārisu 284
+paṭibaddhamano'va tāva so vaccho khīrapako'va mātari.
+
+13. ucchinda sinehamattano kumudaṁ sāradikaṁ'va pāṇinā 285
+santimaggameva brūhaya nibbāṇaṁ sugatena desitaṁ.
+
+14. idha vassaṁ vasissāmi idha hemanta gimbhisu 286
+iti bālo vicinteti antarāyaṁ na bujjhati.
+
+15. taṁ puttapasusammattaṁ byāsattamanasaṁ naraṁ 287
+suttaṁ gāmaṁ mahogho'va maccu ādāya gacchati.
+
+[pts page 042] [\q  42/]
+16. na santi puttā tāṇāya na pitā napi bandhavā 288
+antakenādhipannassa natthi ñātisu tāṇatā.
+
+17. etamatthavasaṁ ñatvā paṇḍito sīlasaṁvuto 289
+nibbāṇagamanaṁ maggaṁ khippameva visodhaye
+
+maggavaggo vīsatimo.
+
+21. pakiṇṇakavaggo.
+
+1. mattāsukhapariccāgā passe ce vipulaṁ sukhaṁ 290
+caje mattāsukhaṁ dhīro sampassaṁ vipulaṁ sukhaṁ.
+
+2. paradukkhūpadānena attano sukhamicchati 291
+verasaṁsaggasaṁsaṭṭho verā so na parimuccati.
+
+14 iha varṣaṁ kariṣyāmi hemantaṁ gīraṣmameva ca
+bālo vicintayatīti hyantarāya na paśyati. (anityavarga. 5. 38)
+15 taṁ putrapaśusampannaṁ vyāsaktamanasaṁ naram
+supataṁ vyāghro mṛgamiva mṛtyurādāya gacchati.
+(mahābhārata. 12. 175)
+taṁ putrapaśusammattaṁ vyāsaktamānasaṁ naram
+supataṁgrāmaṁ mahogha iva mṛtyurādāya gacchati.
+(udānavarga. 1. 5. 39)
+1 mātrāsukha parityāgādya: paśyevipulaṁ sukham
+tyajenmātrāsukhaṁ dhīra: saṁpaśyan vipulaṁ sukham.
+(udānavarga-sukhavarga. 5. 30)
+2 para duhuvadanena yo atmano suhamichati
+vera saṣaga sasaṭho so dubha na parimucati. (prā. dha. [c][vo. 42]
+
+[bjt page 98] [\x  98/]
+3. yaṁ hi kiccaṁ tadapaviddhaṁ akiccaṁ pana kayirati 292
+unnalānaṁ pamattānaṁ tesaṁ vaḍḍhanti āsavā.
+
+4. yesañca susamāraddhā niccaṁ kāyagatā sati 293
+akiccaṁ te na sevanti kicce sātaccakārino
+satānaṁ sampajānānaṁ atthaṁ gacchanti āsavā.
+
+[pts page 043] [\q  43/]
+5. mātaraṁ pitaraṁ hantvā rājāno dve ca khattiye 294
+raṭṭhaṁ sānuvaraṁ hantvā anīgho yāti brāhmaṇo.
+
+6. mātaraṁ pitaraṁ hantvā rājāno dve ca sottiye 295
+veyyagghapañcamaṁ hantvā anīgho yāti brāhmaṇo.
+7. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 296
+yesaṁ divā ca ratto ca niccaṁ buddhagatā sati.
+
+8. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 297
+yesaṁ divā ca ratto ca niccaṁ dhammagatā sati.
+
+9. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 298
+yesaṁ divā ca ratto ca niccaṁ saṅghagatā sati.
+
+10. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 299
+yesaṁ divā ca ratto ca niccaṁ kāyagatā sati.
+
+11. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 300
+yesaṁ divā ca ratto ca ahiṁsāya rato mano.
+
+4 yeṣāntu susamārabdhā nityaṁ kāyagatā smṛti:
+akṛtyaṁ te na kurvanti kṛtye sātatyakāriṇa:
+smṛtānāṁ samprajānānāmastaṁ gacchanti āśravā: (udānavarga. 4. 19. 20)
+5 supraudhu praujati imi gotamaśavaka
+yeṣa divaya rati va nica budhakata smati. (prā. dha. [a](4. 5)
+8 supraudhu. . . . . nica dhamakata smati. (prā. dha. [a](4. 5)
+9 supraudhū praujhati sada gotamaśavaka
+yeṣa diva ya rati ca nica saghakata smati. (prā. dha. [a](4. 6)
+10 supraudhū. . . . . nica kayakata smati. (prā. dha. [a](4. 7)
+11 supraudhū. . . . . ahiṁsai rato mano. (prā. dha. [a](4. 8)
+
+[bjt page 100] [\x 100/]
+12. suppabuddhaṁ pabujjhanti sadā gotamasāvakā 301 yesaṁ divā ca ratto ca bhāvanāya rato mano.
+
+13. duppabbajjaṁ durabhiramaṁ durāvāsā gharā dukhā 302
+dukkhosamānasaṁvāso dukkhānupatitaddhagu
+tasmā na caddhagu siyā dukkhānupatito siyā.
+
+14. saddho sīlena sampanno yasobhogasamappito 303
+yaṁ yaṁ padesaṁ bhajati tattha tattheva pūjito.
+
+15. dūre santo pakāsanti himavanto'va pabbato 304
+asantettha na dissanti rattiṁ khittā yathā sarā.
+
+[pts page 044] [\q  44/]
+16. ekāsanaṁ ekaseyyaṁ eko caramatandito 305
+eko damayamattānaṁ vanante ramito siyā.
+
+ekavīsatimo pakiṇṇakavaggo.
+
+22. niraya vaggo.
+
+1. abhūtavādī nirayaṁ upeti yo cāpi katvā na karomīti cāha 306
+ubho'pi te pecca samā bhavanti nihīnakammā manujā parattha.
+
+12 supraudhū. . . . . . . bhavanai rato mano. (prā. dha. [a](4. 8)
+14 sadhū śilena sabano yaśa bhoga samapitū
+yena yeneva vayati tena teneva puyita. (prā. dha. [c. 25]
+
+[bjt page 102] [\x 102/]
+2. kāsāvakaṇṭhā bahavo pāpadhammā asaññatā 307
+pāpā pāpehi kammehi nirayaṁ te upapajjare.
+
+3. seyye ayoguḷo bhutto tatto aggisikhūpamo 308
+yañce bhūñjeyya dussīlo raṭṭhapiṇḍaṁ asaññato.
+
+4. cattāri ṭhānāni naro pamatto 309
+āpajjati paradārūpasevī
+apuññalābhaṁ na nikāmaseyyaṁ
+nindaṁ tatiyaṁ nirayaṁ catutthaṁ.
+
+[pts page 045] [\q  45/]
+5. apuññalābho ca gatī ca pāpikā 310
+bhītassa bhītāya ratī ca thokikā
+rājā ca daṇḍaṁ garukaṁ paṇeti
+tasmā naro paradāraṁ na seve.
+
+6. kuso yathā duggahito hatthamevānukantati 311
+sāmaññaṁ dupparāmaṭṭhaṁ nirayāyupakaḍḍhati.
+
+7. yaṁ kiñci sithilaṁ kammaṁ saṁkiliṭṭhaṁ ca yaṁ vataṁ 312
+saṅkassaraṁ brahmacariyaṁ na taṁ hoti mahapphalaṁ.
+
+8. kayirā ce kayirāthenaṁ daḷhamenaṁ parakkame 313
+saṭhilo hi paribbājo bhiyyo ākirate rajaṁ.
+
+9. akataṁ dukkataṁ seyyo pacchā tapati dukkataṁ 314
+kataṁ ca sukataṁ seyyo yaṁ katvā nānutappati.
+
+9 akita kukita ṣehu-pacha tavati drukita
+kita nu sukita ṣehu-yakitva nanutapati. (prā. dha. [c. 40]
+akṛtaṁ kukṛtācchreya: -paścāttapati duṣkatṛm
+Śocate duṣkṛtaṁ kṛtvā-śocate durgatiṁ gata:
+kṛtaṁ tu sukṛtaṁ śreyo-yatkṛtvā nānutapyate
+nandate sukṛtaṁ kṛtvā-nandate sugatiṁ gata: .
+(udānavarga. 29. [vv. 44]
+
+[bjt page 104] [\x 104/]
+10. nagaraṁ yathā paccantaṁ guttaṁ santarabāhiraṁ 315
+evaṁ gopetha attānaṁ khaṇo vo mā upaccagā
+khaṇātītā hi socanti nirayamhi samappitā.
+
+11. alajjitāye lajjanti lajjitāye na lajjare 316
+micchādiṭṭhisamādānā sattā gacchanti duggatiṁ.
+
+12. abhaye bhayadassino bhaye cābhayadassino 317
+micchādiṭṭhisamādānā sattā gacchanti duggatiṁ.
+
+[pts page 046] [\q  46/]
+13. avajje vajjamatino vajje cāvajjadassino 318
+micchādiṭṭhisamādānā sattā gacchanti duggatiṁ.
+
+14. vajjaṁ ca vajjato ñatvā avajjaṁ ca avajjato 319
+sammādiṭṭhisamādānā sattā gacchanti suggatiṁ.
+
+nirayavaggo dvāvīsatimo.
+
+23. nāgavaggo.
+
+1. ahaṁ nāgo'va saṅgāme cāpāto patitaṁ saraṁ 320
+ativākyaṁ titikkhissaṁ dussīlo hi bahujjano.
+
+2. dantaṁ nayanti samitiṁ dantaṁ rājā'bhirūhati 321
+danto seṭṭho manussesu yo'tivākyaṁ titikkhati.
+
+3. varamassatarā dantā ājānīyā ca sindhavā 322
+kuñjarā ca mahānāgā attadanto tato varaṁ.
+
+4. na hi etehi yānehi gaccheyya agataṁ disaṁ 323
+yathāttanā sudantena danto dantena gacchati.
+
+1 ahaṁ nāga iva saṁgrāme cāpata: patitaṁ śaram
+ativākyaṁ titikṣāmi du: śīlo hi mahājana: . (udānavarga)
+aho nako va sagami cavadhi vatita śara
+ativaka ti. . . . . . . . . . druśilo hi baho jano.
+(prā. dha. [c. 31]
+
+[bjt page 106] [\x 106/]
+5. dhanapālako nāma kuñjaro kaṭukappabhedano dunnivārayo 324
+baddho kabalaṁ na bhuñjati sumarati nāgavanassa kuñjaro.
+
+[pts page 047] [\q  47/]
+6. middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī 325
+mahāvarāho'va nivāpapuṭṭho punappunaṁ gabbhamupeti mando.
+
+7. idaṁ pure cittamacāri cārikaṁ 326
+yenicchakaṁ yatthakāmaṁ yathāsukhaṁ
+tadajjahaṁ niggahessāmi yoniso
+hatthippabhinnaṁ viya aṅkusaggaho.
+
+8. appamādaratā hotha sacittamanurakkhatha 327
+duggā uddharathattānaṁ paṅke sanno'va kuñjaro.
+
+9. sace labhetha nipakaṁ sahāyaṁ 328
+saddhiṁ caraṁ sādhu vihāri dhīraṁ
+abhibhuyya sabbāni parissayāni
+careyya tenattamano satīmā.
+
+10. no ce labhetha nipakaṁ sahāyaṁ 329
+saddhiṁ caraṁ sādhu vihāri dhīraṁ
+rājā'va raṭṭhaṁ vijitaṁ pahāya
+eko care mātaṅgaraññe'va nāgo.
+
+11. ekassa caritaṁ seyyo 330
+natthi bāle sahāyatā
+eko care na ca pāpāni kayirā
+appossukko mātaṅgaraññe'va nāgo.
+
+12. atthamhi jātamhi sukhā sahāyā 331
+tuṭṭhī sukhā yā itarītarena
+puññaṁ sukhaṁ jīvitasaṅkhayamhi
+sabbassa dukkhassa sukhaṁ pahāṇaṁ.
+
+8 apramādaratā bhavata suśīlā bhavata bhikṣaca:
+susamābhitasaṁkalapā: svacittamanurakṣata. (udānavarga. apramāda. 5. 36)
+apramadarata bhodha sadhami supravedite
+drugha udhvaradha atmana paga sana va kuñaru. (prā. dha. )
+9 sa cellabheta nipakaṁ sahāyakaṁ
+sāṁrdha caraṁ sādhūvihāridhīram
+abhibhūya sarvāṇi parisuvāṇi
+careta tenāttamanā: pratismṛta: .
+(mūlasarvāstivāda vinaya. ko. va. )
+10 sa cellabheta nipakaṁ sahāyakaṁ
+sāṁrdhacaraṁ sādhūvihāridhīram
+rājeva rāṣṭraṁ vipulaṁ prahāya
+ekaścarenna ca pāpāni kuryyāt. (mūlasarvāstivāda vinaya. ko. va. )
+11 ekasya caritaṁ śroyā na tu bāle sahāyatā
+alpotsukaścaredeko mātaṁgaraṇyanāgavat.
+(mūlasarvāstivāda vinaya. ko. va. )
+
+[pts page 048] [\q  48/]
+[bjt page 108] [\x 108/]
+13. sukhā matteyyatā loke atho petteyyatā sukhā 332
+sukhā sāmaññatā loke atho brahmaññatā sukhā.
+
+14. sukhaṁ yāva jarā sīlaṁ sukhā saddhā patiṭṭhitā 333
+sukho paññāya paṭilābho pāpānaṁ akaraṇaṁ sukhaṁ.
+
+nāgavaggo tevīsatimo.
+
+24. taṇhāvaggo.
+
+1. manujassa pamattacārino taṇhā vaḍḍhati māluvā viya 334
+so palavati hurāhuraṁ phalamicchaṁ'va vanasmiṁ vānaro.
+
+2. yā esā sahatī jammī taṇhā loke visattikā 335
+sokā tassa pavaḍḍhanti abhivaṭṭhaṁ'va bīraṇaṁ.
+
+3. yo ce taṁ sahatī jammiṁ taṇhaṁ loke duraccayaṁ 336
+sokā tamhā papatanti udabindū'va pokkharā.
+
+4. taṁ vo vadāmi bhaddaṁ vo yāvantettha samāgatā 337
+taṇhāya mūlaṁ khaṇatha usīrattho' bīraṇaṁ
+mā vo nalaṁ'va soto'va māro bhañji punappunaṁ.
+
+[pts page 049] [\q  49/]
+5. yathāpi mūle anupaddave daḷhe 338
+chinno'pi rukkho punareva rūhati
+evampi taṇhānusaye anūhate
+nibbatti dukkhamidaṁ punappunaṁ.
+
+6. yassa chattiṁsati sotā manāpassavanā bhūsā 339
+vāhā vahanti duddiṭṭhiṁ saṅkappā rāganissitā.
+
+7. savanti sabbadhi sotā latā ubbhijja tiṭṭhati 340
+tañca disvā lataṁ jātaṁ mūlaṁ paññāya chindatha.
+
+4 ta yu vadami bhadrañu yavatetha samakata
+apramada rata bhodha sadhami supravediti. (prā. dha. [a](2. 7)
+
+[bjt page 110] [\x 110/]
+8. saritāni sinehitāni ca somanassāni bhavanti jantuno 341
+te sātasitā sukhesino te ve jāti jarūpagā narā.
+
+9. tasiṇāya purakkhatā pajā parisappanti saso'va bādhito 342
+saṁyojanasaṅgasattā dukkhamupenti punappunaṁ cirāya.
+
+10. tasiṇāya purakkhatā pajā parisappanti saso'va bādhito 343
+tasmā tasiṇaṁ vinodaya bhikkhu ākaṅkhī virāgamattano.
+
+11. yo nibbanatho+ vanādhimutto vanamutto vanameva dhāvati 344
+taṁ puggalametha passatha mutto bandhanameva dhāvati.
+
+[pts page 050] [\q  50/]
+12. na taṁ daḷhaṁ bandhanamāhu dhīrā 345
+yadāyasaṁ dārujaṁ babbajañca
+sārattarattā maṇikuṇḍalesu
+puttesu dāresu ca yā apekhā.
+
+13. etaṁ daḷhaṁ bandhanamāhu dhīrā 346
+ohārinaṁ sithilaṁ duppamuñcaṁ
+etampi chetvāna paribbajanti
+anapekkhino kāmasukhaṁ pahāya.
+
+14. ye rāgarattānupatanti sotaṁ 347
+sayaṁ kataṁ makkaṭako'va jālaṁ
+etampi chetvāna vajanti dhīrā
+anapekkhino sabbadukkhaṁ pahāya.
+
+15. muñca pure muñca pacchato majjhe muñca bhavassa pāragū 348
+sabbattha vimuttamānaso na puna jātijaraṁ upehisi.
+
+16. vitakkapamathitassa jantuno tibbarāgassa subhānupassino 349
+bhiyyo taṇhā pavaḍḍhati esa kho daḷhaṁ karoti bandhanaṁ.
+
+12 na taddṛḍhaṁ bandhanamāhurāryā yadāyasaṁ dāravaṁ balbajaṁ ca
+saṁraktacittā maṇikūṇḍaleṣu putreṣu dāreṣū ya ya avekṣā: .
+13 etaddṛḍhaṁ bandhanamāhurāryā samaṁ tata: susthiraṁ duṣpramuṁcam
+etadapi chitvā parivrajanti anapekṣiṇa: kāmasukhaṁ prahāya.
+(udānavarga kāma. [vv. 5, 6]
+12 na ta driḍha bandhana dhira ya asa daruva babana va
+sarata cita mani kunaleṣū putreṣu dareṣū ya ya aveha.
+13 eta driḍha bandhana maha dhira oharina śiśila drupamujū
+eta bi chitvana parivrayati anavehino kama suhu prahai.
+(prā. dha. [g][vo. 31, 32]
+14 ye rakarata anuvatati sotu
+saigata. . . . . . . . . . .
+eta bi chetvana parivrayati
+anavehino kama suha prahai. (prā. dha. [c][vo. 33]
++ praggalameva sī. mu.
+15 muṁca purato muṁca paścato madhye muṁca bhavasya pāraga:
+sarvatra vimuktamānaso na punarjātijarāmupeṣyasi. (udānavarga. 29, 66)
+muju puratu muju pajatu majhatu muju bhavasa parako
+sarvatra vimutamanaso na puna jatijara vuvehisi. (prā. dha. [c][vo. 22]
+
+[bjt page 112] [\x 112/]
+17. vitakkupasame ca yo rato asubhaṁ bhāvayati sadā sato 350
+esa kho vyantikāhiti esa checchati mārabandhanaṁ.
+
+[pts page 051] [\q  51/]
+18. niṭṭhaṁ gato asantāsī vītataṇho anaṅgaṇo 351
+acchindi bhavasallāni antimo'yaṁ samussayo.
+
+19. vītataṇho anādāno niruttipadakovido 352
+akkharānaṁ sannipātaṁ jaññā pubbaparāni ca
+sa ve antimasārīro mahāpañño mahāpuriso'ti vuccati.
+
+20. sabbābhibhū sabbavidū'hamasmi 353
+sabbesu dhammesu anūpalitto
+sabbañjaho taṇhakkhaye vimutto
+sayaṁ abhiññāya kamuddiseyyaṁ.
+
+21. sabbadānaṁ dhammadānaṁ jināti 354
+sabbaṁ rasaṁ dhammaraso jināti
+sabbaṁ ratiṁ dhammaratī jināti
+taṇhakkhayo sabbadukkhaṁ jināti.
+
+22. hananti bhogā dummedhaṁ no ve pāragavesino 355
+bhogataṇhāya dummedho hanti aññe'va attanā.
+
+23. tiṇadosāni khettāni rāgadosā ayaṁ pajā 356
+tasmā hi vītarāgesu dinnaṁ hoti mahapphalaṁ.
+
+23. tiṇadosāni khettāni dosadosā ayaṁ pajā 357
+tasmā hi vītadosesu dinnaṁ hoti mahapphalaṁ.
+
+20 sarvābhibhū sarvavido' hamasimi sarvehi dharmehi anopalipta:
+sarvagño'haṁ tṛṣṇākṣaye vimukto svayaṁ abhigñāya kamuddiśeyama.
+(mahāvastu. 325)
+
+[bjt page 114] [\x 114/]
+25. tiṇadosāni khettāni mohadosā ayaṁ pajā 358
+tasmā hi vītamohesu dinnaṁ hoti mahapphalaṁ.
+
+[pts page 052] [\q  52/]
+26. tiṇadosāni khettāni icchādosā ayaṁ pajā 359
+tasmā hi vigaticchesu dinnaṁ hoti mahapphalaṁ.
+
+taṇhāvaggo catuvīsatimo.
+
+25. bhikkhuvaggo.
+
+1. cakkhunā saṁvaro sādhu sādhu sotena saṁvaro 360
+ghāṇena saṁvaro sādhu sādhu jivhāya saṁvaro.
+
+2. kāyena saṁvaro sādhu sādhu vācāya saṁvaro 361
+manasā saṁvaro sādhu sādhu sabbattha saṁvaro
+sabbattha saṁvuto bhikkhu sabbadukkhā pamuccati.
+
+3. hattha saññato pādasaññato 362
+vācāya saññato saññatuttamo
+ajjhattarato samāhito
+eko santusito tamāhu bhikkhuṁ.
+
+4. yo mukhasaññato bhikkhu mantabhāṇī anuddhato 363
+atthaṁ dhammaṁ ca dīpeti madhuraṁ tassa bhāsitaṁ.
+
+[pts page 053] [\q  53/]
+5. dhammārāmo dhammarato dhammaṁ anuvicintayaṁ 364
+dhammaṁ anussaraṁ bhikkhu saddhammā na parihāyati.
+
+6. salābhaṁ nātimaññeyya nāññesaṁ pihayaṁ care 365
+aññesaṁ pihayaṁ bhikkhu samādhiṁ nādhigacchati.
+
+7. appalābho'pi ce bhikkhu salābhaṁ nātimaññati 366
+taṁ ve devā pasaṁsanti suddhājīviṁ atanditaṁ.
+1 cakṣuṣā saṁvaro sādhu sādhu śrotreṇa saṁvara:
+kāyena saṁvaro sādhu manasā sādhu saṁvara:
+sarvatra saṁvṛto bhikṣu: sarvadu: khāt pramucyate. (mahāvastu. 3. pi. 423)
+2 kaena sañamu sadhu sadhu vayai sañamu
+manena sañamu sadhu sadhu savatra sañamu
+savatra sañato bhikhu sava dugatio jahi. (prā. dha. [b. 9]
+3 hatasañatu padasañatu vayasañatu savutidrio
+ajhatmarato samahito eko satusito tamahu bhikhu.
+(prā. dha. [b. 10]
+4 yo muhena sañato bhikhu matabhani anudhato
+arthadharmu ji deseti mayuru tasa bhasita. (prā. dha. [b. 11]
+5 dharmārāmo dharmarato dharmamanuvicintayan
+dharmaṁ samanusmaran hikṣu: saddharmānna parihāyati.
+(mahāvastu. 3. pi. 421)
+6 salabhu natimañe a nañeṣa samihao sia
+añeṣa saddhamiha bhikhu samadhi nadhikajati. (prā. dha. [b. 20]
+
+[bjt page 116] [\x 116/]
+8. sabbaso nāmarūpasmiṁ yassa natthi mamāyitaṁ 367
+asatā ca na socati sa ve bhikkhū'ti vuccati.
+
+9. mettāvihārī yo bhikkhū pasanno buddhasāsane 368
+adhigacche padaṁ santaṁ saṅkhārūpasamaṁ sukhaṁ.
+
+10. siñca bhikkhu imaṁ nāvaṁ sittā te lahumessati 369
+chetvā rāgaṁ dosaṁ ca tato nibbāṇamehisi.
+
+11. pañca chinde pañca jahe pañca cuttari bhāvaye 370
+pañcasaṅgātigo bhikkhu oghatiṇṇo'ti vuccati.
+
+12. jhāya bhikkhu mā ca pāmado 371
+mā te kāmaguṇe bhamassu cittaṁ
+mā lohaguḷaṁ gilī pamatto
+mā kandi dukkhamidanti ḍayhamāno.
+
+13. natthi jhānaṁ apaññassa paññā natthi ajhāyato 372
+yamhi jhānaṁ ca paññā ca sa ve nibbāṇasantike.
+
+[pts page 054] [\q  54/]
+14. suññāgāraṁ paviṭṭhassa santacittassa bhikkhuno 373
+amānusī rati hoti sammā dhammaṁ vipassato.
+
+15. yato yato sammasati khandhānaṁ udayabbayaṁ 374
+labhati pītipāmojjaṁ amataṁ taṁ vijānataṁ.
+
+16. tatrāyamādi bhavati idha paññassa bhikkhuno 375
+indriyagutti santuṭṭhī pātimokkhe ca saṁvaro.
+
+8 savasu namaruvasa yasa nathi mamaita
+asata i na śoyati so hu bhikhu tu vucati. (prā. dha. [b. 38]
+9 maitīravihārī yo bhikṣu: prasanno budaddhaśāsane
+adhigacchati padaṁ śāntaṁ aśecanaṁ ca mocanam.
+(mahāvastu. 3. 421)
+metra vihara ye bhikkhu prasanu budha śasa. . . . . .
+paḍivijhu pada śata sagharavośamu suha. (prā. dha. [b. 29]
+10 siṁca bhikṣo imāṁ nāvaṁ siktā te lahumeṣyati
+jitvā rāgaṁ ca dveṣaṁ ca tato nirvāṇameṣyasi. (mahāvastu. 3. 421)
+sija bhikhu ima nama sita ti lahu mesiti
+chetva raka ji dośa tato nivana eśiti. (prā. dha. [b. 34]
+11 paja jina paja jahi paja utvari bhavai
+paja sagadhio bhikhu ohatino'ti vucati. (prā. dha. [b. 16]
+12 jai bhikhu ma yi pramadi ma te kamaguṇa bhameṁsu cittaṁ
+ma lohaguḍa gili pramata kana dukhamida ti dajhamano.
+(prā. dha. [b. 34]
+13 nathi jhana aprañasa praña nathi ajhayato
+yasa jhana ca praña ya so ho nirvanasa sati a. (prā. dha. [b. 16]
+14 suñakare praviṭhasa śatacitasa bhikhuno
+amanuṣa rati hoti same dharma vivaśatu. (prā. dha. [b. 12]
+15 yato yato samaṣati khandhana udayavaya
+lahati pirati pramoju amutu ta vijanatu. (prā. dha. [b. 17]
+16 tatrai adi bhavati tadha prañasa bhikhuno
+idriyagoti satuṭhī pratimukhei. . . (prā. dha. [b. 17]
+
+[bjt page 118] [\x 118/]
+17. mitte bhajassu kalyāṇe suddhājīve atandite 376
+paṭisanthāravuttyassa ācārakusalo siyā
+tato pāmojjabahulo dukkhassantaṁ karissasi.
+
+18. vassikā viya pupphāni maddavāni pamuñcati 377
+evaṁ rāgaṁ ca dosaṁ ca vippamuñcetha bhikkhavo.
+
+19. santakāyo santavāco santavā susamāhito 378
+vantalokāmiso bhikkhu upasanto'ti vuccati.
+
+20. attanā vodayattānaṁ paṭimāse'ttamattanā 379
+so attagutto satimā sukhaṁ bhikkhu vihāhisi.
+
+21. attā hi attano nātho attā hi attano gati 380
+tasmā saññamayattānaṁ assaṁ bhadraṁ'va vāṇijo.
+
+22. pāmojjabahulo bhikkhu pasanno buddhasāsane 381
+adhigacche padaṁ santaṁ saṅkhārūpasamaṁ sukhaṁ.
+
+[pts page 055] [\q  55/]
+23. yo have daharo bhikkhu yuñjati buddhasāsane 382
+so imaṁ lokaṁ pabhāseti abbhā mutto'va candimā.
+
+bhikkhuvaggo pañcavīsatimo.
+
+26. brāhmaṇavaggo.
+
+1. chinda sotaṁ parakkamma kāme panuda brāhmaṇa 383
+saṅkhārānaṁ khayaṁ ñatvā akataññū'si brāhmaṇa.
+
+2. yadā dvayesu dhammesū pāragū hoti brāhmaṇo 384
+athassa sabbe saṁyogā atthaṁ gacchanti jānato.
+
+17 mitra bhaye a paḍiruva sudhayīva a. . .
+paḍisaravuti asa aprak. . .
+datu ayarakuśalo suhu bhikhu vihaṣisi. (prā. dha. [b. 18]
+22 pramojabahulu yo bhikhu abhivuyu paripiraya
+adhikachi pada śata aseyana moyaka. (prā. dha. [b. 31]
+(aseyana=asecanakaṁ)
+(moyaka=mocakaṁ)
+1 jindhi srota: parakrāmya kāmān praṇuda brāhmaṇa
+nāprahāya muni: kāmān ekatvamadhigacchati. (udānavarga. 10. 1)
+
+[bjt page 120] [\x 120/]
+3. yassa pāraṁ apāraṁ vā pārāpāraṁ na vijjati 385
+vītaddaraṁ visaṁyuttaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+4. jhāyiṁ virajamāsīnaṁ katakiccaṁ anāsavaṁ 386
+uttamatthaṁ anuppattaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+5. divā tapati ādicco rattiṁ ābhāti candimā 387
+sannaddho khattiyo tapati jhāyī tapati brāhmaṇo
+atha sabbamahorattiṁ buddho tapati tejasā.
+
+[pts page 056] [\q  56/]
+6. bāhitapāpo'ti brāhmaṇo samacariyā samaṇo'ti vuccati 388
+pabbājayattano malaṁ tasmā pabbajito'ti vuccati.
+
+7. na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo 389
+dhī brāhmaṇassa hantāraṁ tato dhī yassa muñcati.
+
+8. na brāhmaṇassetadakiñci seyyo 390
+yadā nisedho manaso piyehi
+yato yato hiṁsamano nivattati
+tato tato sammati meva dukkhaṁ.
+
+9. yassa kāyena vācāya manasā natthi dukkataṁ 391
+saṁvutaṁ tīhi ṭhānehi tamahaṁ brūmi brāhmaṇaṁ.
+
+10. yamhā dhammaṁ vijāneyya sammāsambuddhadesitaṁ 392
+sakkaccaṁ taṁ namasseyya aggihuttaṁ'va brāhmaṇo.
+
+4 jhayi parakata budhu kitakica anasavu
+budhu daśabalu vetu tamahu bromi bramana. (prā. dha. [b. 5]
+5 diva tavati adivu rati abhai cadrimu
+sanadhu chatirao tavati jhai tavati bramano
+adha sarva ahoratra budhu tavati teyasa. (prā. dha. )
+
+[bjt page 122] [\x 122/]
+11. na jaṭāhi na gottena jaccā hoti brāhmaṇo 393
+yamhi saccañca dhammo ca so sucī so'va brāhmaṇo.
+
+12. kiṁ te jaṭāhi dummedha kiṁ te ajinasāṭiyā 394
+abbhantaraṁ te gahaṇaṁ bāhiraṁ parimajjasi.
+
+13. paṁsukūladharaṁ jantūṁ kisaṁ dhamanisanthataṁ 395
+ekaṁ vanasmiṁ jhāyantaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[pts page 057] [\q  57/]
+14. na cāhaṁ brāhmaṇaṁ brūmi yonijaṁ mattisambhavaṁ 396
+bhovādī nāma so hoti sace hoti sakiñcano
+akiñcanaṁ anādānaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+15. sabbasaṁyojanaṁ chetvā yo ve na paritassati 397
+saṅgātigaṁ vidaññuttaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+16. chetvā naddhiṁ varattañca sandāmaṁ sahanukkamaṁ 398
+ukkhittapalighaṁ buddhaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+17. akkosaṁ vadhabandhaṁ ca aduṭṭho yo titikkhati 399
+khantibalaṁ balānīkaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+18. akkodhanaṁ vatavantaṁ sīlavantaṁ anussutaṁ 400
+dantaṁ antimasārīraṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+19. vāri pokkharapatte'va āraggeriva sāsapo 401
+yo na lippati kāmesu tamahaṁ brūmi brāhmaṇaṁ.
+
+20. yo dukkhassa pajānāti idheva khayamattano 402
+pannabhāraṁ visaṁyuttaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[bjt page 124] [\x 124/]
+21. gambhīrapaññaṁ medhāviṁ maggāmaggassa kovidaṁ 403
+uttamatthaṁ anuppattaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[pts page 058] [\q  58/]
+22. asaṁsaṭṭhaṁ gahaṭṭhehi anāgārehi cūbhayaṁ 404
+anokāsariṁ appicchaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+23. nidhāya daṇḍaṁ bhūtesu tasesu thāvaresu ca 405
+yo na hanti na ghāteti tamahaṁ brūmi brāhmaṇaṁ.
+
+24. aviruddhaṁ viruddhesu attadaṇḍesu nibbutaṁ 406
+sādānesu anādānaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+25. yassa rāgo ca doso ca māno makkho ca pātito 407
+sāsapo riva āraggā tamahaṁ brūmi brāhmaṇaṁ.
+
+26. akakkasaṁ viññapaniṁ giraṁ saccaṁ udīraye 408
+yāya nābhisaje kañci tamahaṁ brūmi brāhmaṇaṁ.
+
+27. yo'dha dīghaṁ va rassaṁ vā aṇuṁ thūlaṁ subhāsubhaṁ 409
+loke adinnaṁ nādiyati tamahaṁ brūmi brāhmaṇaṁ.
+
+28. āsā yassa na vijjanti asmiṁ loke paramhi ca 410
+nirāsayaṁ visaṁyuttaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+29. yassālayā na vijjanti aññāya akathaṁkathī 411
+amatogadhaṁ anuppattaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+30. yo'dha puññca pāpañca ubho saṅgaṁ upaccagā 412
+asokaṁ virajaṁ suddhaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+31. candaṁ'va vimalaṁ suddhaṁ vippasannamanāvilaṁ 413
+nandībhavaparikkhīṇaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[pts page 059] [\q  59/]
+[bjt page 126] [\x 126/]
+32. yo imaṁ paḷipathaṁ duggaṁ saṁsāraṁ mohamaccagā 414
+tiṇṇo pāragato jhāyī anejo akathaṁkatī
+anupādāya nibbuto tamahaṁ brūmi brāhmaṇaṁ.
+
+33. yo'dha kāme pahātvāna anāgāro paribbaje 415
+kāmabhavaparikkhīṇaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+34. yo'dha taṇhaṁ pahātvāna anāgāro paribbaje 416
+taṇhābhavaparikkhīṇaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+35. hitvā mānusakaṁ yogaṁ dibbaṁ yogaṁ upaccagā 417
+sabbayogavisaṁyuttaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+36. hitvā ratiṁ ca aratiṁ ca sītibhūtaṁ nirūpadhiṁ 418
+sabbalokābhibhuṁ vīraṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+37. cutiṁ yo'vedi sattānaṁ upapattiṁ ca sabbaso 419
+asattaṁ sugataṁ buddhaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+38. yassa gatiṁ na jānanti devā gandhabbamānusā 420
+khīṇāsavaṁ arahantaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+39. yassa pure ca pacchā ca majjhe ca natthi kiñcanaṁ 421
+akiñcanaṁ anādānaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[pts page 060] [\q  60/]
+40. usabhaṁ pavaraṁ vīraṁ mahesiṁ vijitāvinaṁ 422
+anejaṁ nhātakaṁ buddhaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+[bjt page 128] [\x 128/]
+41. pubbenivāsaṁ yo'vedī saggāpāyaṁ ca passati 423
+atho jātikkhayaṁ patto abhiññāvosito muni
+sabbavositavosānaṁ tamahaṁ brūmi brāhmaṇaṁ.
+
+brāhmaṇavaggo chabbīsatimo.
+
+vagguddānaṁ.
+
+1. yamakappamādo cittaṁ pupphaṁ bālena paṇḍito
+arahanto sahassena pāpadaṇḍena te dasa.
+
+2. jarā attā ca loko ca buddho sukhapiyena ca
+kodho malaṁ ca dhammaṭṭho maggavaggena vīsati.
+
+3. pakiṇṇaṁ nirayo nāgo taṇhā bhikkhu ca brāhmaṇo
+ete chabbīsati vaggā desitādiccabandhunā.
+
+gāthuddānaṁ.
+
+1. yamake vīsati gāthā appamādamhi dvādasa
+ekādasa cittavagge pupphavaggamhi soḷasa.
+
+2. bāle ca soḷasa gāthā paṇḍitamhi catuddasa
+arahante dasa gāthā sahasse honti soḷasa.
+
+3. terasa pāpavaggamhi daṇḍamhi dasa satta ca
+ekādasa jarāvagge attavagge bhave dasa.
+
+4. dvādasa lokavaggamhi buddhe caṭṭhārasa bhave
+sukhe ca piyavagge ca gāthāyo honti dvādasa.
+
+5. cuddasa kodhavaggamhi malavaggekavīsati
+sattarasa ca dhammaṭṭhe maggavagge tatheva ca.
+
+6. pakiṇṇe soḷasa gāthā niraye nāge catuddasa
+chabbīsati taṇhāvaggamhi tevīsa bhikkhuvaggikā.
+
+7. cattāḷīsekagāthāyo brāhmaṇe vaggamuttame
+gāthā satāni cattāri tevīsa ca punāpare
+dhammapade nipātamhi desitādiccabandhunā'ti.
+
+dhammapada pāḷi niṭṭhitā.
+
